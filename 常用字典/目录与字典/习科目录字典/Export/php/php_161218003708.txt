@@ -1,0 +1,2 @@
+ct/installct.php
+install.php

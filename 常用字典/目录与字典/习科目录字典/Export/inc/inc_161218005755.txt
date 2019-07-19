@@ -1,0 +1,8 @@
+Admin/PublicSite/adovbs.inc
+FS_Inc/adovbs.inc
+Images/char.inc
+Inc/AD.inc
+Inc/head.inc
+Inc/liulan.inc
+member/space/skinlist.inc
+uploadclass/upload_5xsoft.inc

@@ -1,0 +1,5 @@
+1/1/gif.asp
+bbs/upfile.asp
+upfile.asp
+wokao/1/gif.asp
+wokao/wokao/gif.asp

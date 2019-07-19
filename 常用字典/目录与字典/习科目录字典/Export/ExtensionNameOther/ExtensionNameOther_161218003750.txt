@@ -1,0 +1,2 @@
+ewebeditor.php?id=x&style=standard
+upload.php?action=upfile

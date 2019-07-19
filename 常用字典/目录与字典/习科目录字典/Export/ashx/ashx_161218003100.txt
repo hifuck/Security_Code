@@ -1,0 +1,2 @@
+control.ashx
+cutesoft_client/cuteeditor/load.ashx

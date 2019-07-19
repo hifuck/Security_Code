@@ -1,0 +1,17 @@
+a_admin.jsp
+admin.jsp
+admin/admin.jsp
+admin_admin.jsp
+admin_index.jsp
+admin_login.jsp
+admin_soft.jsp
+gl.jsp
+gladmin.jsp
+gllogin.jsp
+guanliadmin.jsp
+guanlilog.jsp
+guanlilogin.jsp
+guanliyuan.jsp
+login.jsp
+office.jsp
+soft_admin.jsp

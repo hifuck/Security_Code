@@ -1,0 +1,2 @@
+admin/User/User_Password.aspx
+User/User_Password.aspx

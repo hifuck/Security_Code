@@ -1,0 +1,10 @@
+admin/Select_feedback.ph
+admin_uploadfile_user.ph
+Admin_ZgTea_Art/Login.ph
+AdminFile/Admin_Login.ph
+administrator/account.ph
+count/supervise/Login.ph
+ewebeditor/asp/browse.ph
+Kes/Admin/Admin_Login.ph
+new/Admin_New/default.ph
+WebEditor/admin_login.ph

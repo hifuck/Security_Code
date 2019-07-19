@@ -1,0 +1,2 @@
+admin/editor/admin/LOGIN.GIF
+edit/SysImage/ewebeditor.gif

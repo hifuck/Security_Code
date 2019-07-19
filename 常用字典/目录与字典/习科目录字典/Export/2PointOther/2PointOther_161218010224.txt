@@ -1,0 +1,5 @@
+../admin/default.asp
+../admin/index.asp
+../admin/login.asp
+../admin/mana_login.php
+../admin/manage.asp

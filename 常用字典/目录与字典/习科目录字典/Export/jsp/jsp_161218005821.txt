@@ -1,0 +1,3 @@
+delimg.jsp
+upload.jsp
+uploadimage.jsp

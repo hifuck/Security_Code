@@ -1,0 +1,7 @@
+info/viewquest.jsp?quid=27
+info/viewquest.jsp?quid=28
+info/viewquest.jsp?quid=29
+info/viewquest.jsp?quid=30
+info/viewquest.jsp?quid=31
+info/viewquest.jsp?quid=32
+info/viewquest.jsp?quid=34

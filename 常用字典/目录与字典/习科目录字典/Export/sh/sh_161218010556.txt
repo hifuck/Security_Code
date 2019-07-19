@@ -1,0 +1,4 @@
+cgi/man.sh
+cgi/view.sh
+man.sh
+scripts/man.sh

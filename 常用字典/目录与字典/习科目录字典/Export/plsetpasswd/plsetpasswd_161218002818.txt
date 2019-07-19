@@ -1,0 +1,1 @@
+cgibin/amadmin.plsetpasswd

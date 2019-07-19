@@ -1,0 +1,12 @@
+admin/data/user.asp
+bbs/fdnews.asp
+data/12912.asp
+data/news3000.asp
+data/zm_marry.asp
+data_jk/joekoe_data.asp
+database.asp
+database/article.asp
+db/6k.asp
+db/play.asp
+fdnews.asp
+mdb.asp

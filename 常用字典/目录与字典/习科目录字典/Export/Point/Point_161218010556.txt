@@ -1,0 +1,13 @@
+.
+add_admin.
+add_user.
+admin/edit/admin_login.
+admin/editor/admin_login.
+admin/ewebeditor/admin_login.
+art.
+article.
+cgi/unlg.
+cipher.
+common.
+girls.
+reg_upload.

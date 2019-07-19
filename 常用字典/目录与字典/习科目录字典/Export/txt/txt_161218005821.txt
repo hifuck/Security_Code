@@ -1,0 +1,6 @@
+aspjzy.txt
+history.txt
+License.txt
+readme.txt
+ReadMe.txt
+robots.txt

@@ -1,0 +1,3 @@
+images/ybb.ico
+include/forum.ico
+program/gpyedit/filemanager/images/006.ico

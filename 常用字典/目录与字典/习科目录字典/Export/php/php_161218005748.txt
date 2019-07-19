@@ -1,0 +1,4 @@
+include/config.php
+include/dialoguser/select_soft.php
+lib/config.php
+upimg/userup/556/phshell.php

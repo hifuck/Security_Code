@@ -1,0 +1,3 @@
+bin/man.sh
+cgi/man.sh
+scripts/man.sh

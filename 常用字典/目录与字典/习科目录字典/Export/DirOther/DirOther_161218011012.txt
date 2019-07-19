@@ -1,0 +1,11 @@
+admin=anything
+c/cmd.exe?/c+dir
+c/root.exe?/c+dir
+c:
+cache-stats
+d/root.exe?/c+dir
+etc/passwd|mail
+homepage.nsf/$defaultnav
+http1.0
+server-info
+server-status

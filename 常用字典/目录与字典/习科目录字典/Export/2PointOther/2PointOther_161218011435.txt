@@ -1,0 +1,3 @@
+cgi_bin/law.com/admin_article/admin_login.asp
+cgi_bin/law.com/admin_article/admin_login.php
+law.com/admin_article/admin_login.asp

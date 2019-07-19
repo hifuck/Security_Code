@@ -1,0 +1,13 @@
+add_admin.
+add_user.
+admin/edit/admin_login.
+admin/editor/admin_login.
+admin/ewebeditor/admin_login.
+art.
+article.
+cipher.
+common.
+eWebEditor/db/ewebeditor.
+fckeditor/editor/filemanager/browser/default/frmupload.
+girls.
+reg_upload.

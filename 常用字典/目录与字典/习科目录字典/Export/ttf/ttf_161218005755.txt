@@ -1,0 +1,3 @@
+bbs/images/fonts/en/FetteSteinschrift.ttf
+bbs/images/fonts/en/PilsenPlakat.ttf
+include/data/fonts/ggbi.ttf

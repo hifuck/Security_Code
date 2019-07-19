@@ -1,0 +1,14 @@
+etc/pure-ftpd.conf
+etc/pure-ftpd/pure-ftpd.conf
+etc/pure-ftpd/pureftpd.pdb
+etc/pure-ftpd/pure-ftpd.pdb
+logs/pure-ftpd.log
+usr/etc/pure-ftpd.conf
+usr/local/etc/pure-ftpd.conf
+usr/local/pureftpd/etc/pure-ftpd.conf
+usr/local/pureftpd/sbin/pure-config.pl
+usr/sbin/pure-config.pl
+var/log/ftp-proxy/ftp-proxy.log
+var/log/mysql/mysql-bin.log
+var/log/mysql/mysql-slow.log
+var/log/pure-ftpd/pure-ftpd.log

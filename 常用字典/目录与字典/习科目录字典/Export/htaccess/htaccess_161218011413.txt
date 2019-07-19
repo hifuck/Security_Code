@@ -1,0 +1,5 @@
+.htaccess
+scripts/.htaccess
+secure/.htaccess
+secured/.htaccess
+usr/local/apache/share/htdocs/.htaccess

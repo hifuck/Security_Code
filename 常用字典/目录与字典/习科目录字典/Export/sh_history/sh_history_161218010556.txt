@@ -1,0 +1,2 @@
+.sh_history
+etc/.sh_history

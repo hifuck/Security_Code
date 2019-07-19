@@ -1,0 +1,4 @@
+scripts/php/mlog.phtml
+scripts/php/mylog.phtml
+scripts/phpmlog.phtml
+scripts/phpmylog.phtml

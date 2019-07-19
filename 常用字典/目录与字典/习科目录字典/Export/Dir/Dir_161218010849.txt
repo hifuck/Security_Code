@@ -1,0 +1,12 @@
+cgi_bin/adminadmin
+cgi_bin/adminindex
+cgi_bin/administrator
+cgi_bin/Console/login
+cgi_bin/ht
+cgi_bin/indexadmin
+cgi_bin/inside
+cgi_bin/sys/login
+cgi_bin/system/login
+cgi_bin/systems/login
+cgi_bin/webadmin
+cgi_bin/xtadmin

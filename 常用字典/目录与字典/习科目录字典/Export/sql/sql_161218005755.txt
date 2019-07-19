@@ -1,0 +1,8 @@
+bbs/install/discuz.sql
+demo/zh_cn.sql
+demo/zh_tw.sql
+install/data/data_en_us.sql
+install/data/data_zh_cn.sql
+install/data/data_zh_tw.sql
+install/data/structure.sql
+install/supesite.sql

@@ -1,0 +1,13 @@
+auth/goadult.pwf
+auth/ncsa/goadult.pwf
+cgibin/anime.pwf
+epoch/anime.pwf
+lucky7/members.pwf
+main/member.pwf
+main/members.pwf
+main/passwd.pwf
+main/passwrd.pwf
+mastrans.pwf
+members.pwf
+members/members.pwf
+userdb/members.pwf

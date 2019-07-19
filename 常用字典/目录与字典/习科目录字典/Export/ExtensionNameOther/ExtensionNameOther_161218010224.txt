@@ -1,0 +1,14 @@
+admin/Default.asp?
+admin_Default.asp?
+adminDefault.asp?
+Default_Default.asp?
+index_Default.asp?
+indexDefault.asp?
+login/Default.asp?
+login_Default.asp?
+loginDefault.asp?
+server-info.asp
+server-status.asp
+user_Default.asp?
+userDefault.asp?
+webDefault.asp?

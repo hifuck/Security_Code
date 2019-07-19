@@ -1,0 +1,3 @@
+etc/pureftpd.pdb
+usr/local/etc/pureftpd.pdb
+usr/local/pureftpd/etc/pureftpd.pdb

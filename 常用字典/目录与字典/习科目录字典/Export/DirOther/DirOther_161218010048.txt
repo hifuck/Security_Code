@@ -1,0 +1,9 @@
+etc/logrotate.d/ftp
+etc/logrotate.d/proftpd
+etc/wu-ftpd/ftpaccess
+etc/wu-ftpd/ftphosts
+etc/wu-ftpd/ftpusers
+usr/ports/contrib/pure-ftpd
+usr/ports/ftp/pure-ftpd
+usr/ports/net/pure-ftpd
+var/log/ftp-proxy

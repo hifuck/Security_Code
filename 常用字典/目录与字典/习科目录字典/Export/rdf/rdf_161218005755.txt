@@ -1,0 +1,2 @@
+data/xpi/chrome/locale/en/blogmark/contents.rdf
+data/xpi/chrome/skin/classic/blogmark/contents.rdf

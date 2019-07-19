@@ -1,0 +1,2 @@
+members/.memberpass
+pass/.memberpass

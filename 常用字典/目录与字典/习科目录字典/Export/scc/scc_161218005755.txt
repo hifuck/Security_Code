@@ -1,0 +1,5 @@
+Images/vssver.scc
+Inc/vssver.scc
+Template/WQclothes/Images/vssver.scc
+Template/WQclothes/Modules/vssver.scc
+Template/WQclothes/vssver.scc

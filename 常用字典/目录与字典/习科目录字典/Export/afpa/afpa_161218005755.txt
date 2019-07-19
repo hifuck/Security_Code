@@ -1,0 +1,1 @@
+fckeditor/_samples/afp/fck.afpa

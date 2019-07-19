@@ -1,0 +1,12 @@
+admin.html
+admin/account.html
+admin/adminLogin.html
+admin/controlpanel.html
+admin/login.html
+admin1.html
+admin2.html
+login.html
+moderator.html
+relogin.html
+yonetici.html
+yonetim.html

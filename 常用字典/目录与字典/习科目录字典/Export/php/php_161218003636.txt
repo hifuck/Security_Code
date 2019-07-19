@@ -1,0 +1,6 @@
+a_admin.php
+adminsys.php
+gladmin.php
+gllogin.php
+office.php
+sysadmin.php

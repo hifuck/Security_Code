@@ -1,0 +1,15 @@
+a_admin.jsp
+admin.jsp
+admin/admin.jsp
+admin_admin.jsp
+admin_index.jsp
+admin_login.jsp
+admin_soft.jsp
+default.jsp
+edithtml.jsp
+index.jsp
+login.jsp
+main.jsp
+upfile.jsp
+upload.jsp
+uploadtitlepic.jsp

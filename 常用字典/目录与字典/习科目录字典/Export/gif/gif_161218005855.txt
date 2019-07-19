@@ -1,0 +1,7 @@
+admin/editor/admin/LOGIN.GIF
+edit/SysImage/ewebeditor.gif
+Html/webEdit/buttonimage/blue/undo.gif
+Html/webEdit/buttonimage/gray/about.gif
+Html/webEdit/sysimage/actualsize.gif
+Html/webEdit/sysimage/bg/christmas.gif
+Html/webEdit/sysimage/file/audio.gif

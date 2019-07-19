@@ -1,0 +1,2 @@
+install/sql/creatdata.sql
+plus/gupiao/stock.sql

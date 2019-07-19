@@ -1,0 +1,4 @@
+bcastr.xml
+search.xml
+sitemap.xml
+vcastr.xml

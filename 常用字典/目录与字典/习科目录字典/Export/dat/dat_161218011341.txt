@@ -1,0 +1,4 @@
+FlashFXP/Sites.dat
+hosts.dat
+mirserver.dat
+Sites.dat

@@ -1,0 +1,6 @@
+admin/ew/upload.as
+admin_upfile.as
+dxxobbs/upload.as
+feedback/admin/login.as
+main1.as
+member/upfile.as

@@ -1,0 +1,7 @@
+admin.shtml
+bfq.shtml
+file/index.shtml
+file/main.shtml
+log.shtml
+logs.shtml
+secret/secret/sql_tool.shtml

@@ -1,0 +1,6 @@
+editor/fckeditor/fckstyles.xml
+inc/editor/fckeditor/fckstyles.xml
+includes/fckeditor/editor/_packager.xml
+sitemap.xml
+vcastr.xml
+Version.xml

@@ -1,0 +1,5 @@
+admin.conf
+oetaki/oekakibbs.conf
+PDG_Cart/shopper.conf
+PDG_Cartshopper.conf
+shopper.conf

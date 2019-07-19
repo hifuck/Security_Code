@@ -1,0 +1,9 @@
+admin/admin.php
+admin/index.php
+admin/login.php
+ask/admin.php
+blog/admin.php
+guestbook/admin.php
+login.php
+manager.php
+SEM_User/admin_php/login.php

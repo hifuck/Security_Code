@@ -1,0 +1,7 @@
+admin/admin_/login.jsp
+admin/login.jsp
+admin_/login.jsp
+aux.jsp
+file/index.jsp
+file/login.jsp
+upload.jsp

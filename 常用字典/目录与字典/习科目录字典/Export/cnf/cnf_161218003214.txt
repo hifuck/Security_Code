@@ -1,0 +1,7 @@
+_vti_pvt/access.cnf
+_vti_pvt/service.cnf
+_vti_pvt/services.cnf
+_vti_pvt/svcacl.cnf
+_vti_pvt/writeto.cnf
+asearch.cnf
+global.cnf

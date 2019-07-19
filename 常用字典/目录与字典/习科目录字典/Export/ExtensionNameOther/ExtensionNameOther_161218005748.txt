@@ -1,0 +1,14 @@
+blog/blogdata/l-blog.mdb
+blog/blogdata/L-BLOG.mdb
+blogdata/l-blog.mdb
+blogdata/L-BLOG.mdb
+cgi_bin/guanli-cn.asp
+data/%23bjxshop.mdb
+database/%23mmdata.mdb
+database/%23newasp.mdb
+Database/%23YXchangehope.asp
+guanli-cn.asp
+link/links%23.asa
+log/blogdata/l-blog.mdb
+upload.asp?action=upfile
+vote/dsvote%23.asa

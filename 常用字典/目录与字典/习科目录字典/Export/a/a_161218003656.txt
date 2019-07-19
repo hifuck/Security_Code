@@ -1,0 +1,1 @@
+fckeditor/editor/filemanager/upload/aspx/upload.a

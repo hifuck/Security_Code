@@ -1,0 +1,5 @@
+Admin/Images/login_bg.psd
+businessdemo/admin/images/login_bg.psd
+businessdemo/skins/antique/images/top_bg.psd
+Images/logo.psd
+Images/navbg_m.psd

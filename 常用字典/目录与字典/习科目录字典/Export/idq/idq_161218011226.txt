@@ -1,0 +1,4 @@
+.idq
+query.idq
+search.idq
+stq.idq

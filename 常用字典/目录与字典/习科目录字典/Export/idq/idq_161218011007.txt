@@ -1,0 +1,15 @@
+.idq
+iissamples/exair/search/query.idq
+iissamples/exair/search/search.idq
+iissamples/iissamples/fastq.idq
+iissamples/iissamples/query.idq
+null.idq
+query.idq
+scripts/samples/search/author.idq
+scripts/samples/search/filesize.idq
+scripts/samples/search/filetime.idq
+scripts/samples/search/query.idq
+scripts/samples/search/queryhit.idq
+scripts/samples/search/simple.idq
+search.idq
+stq.idq

@@ -1,0 +1,8 @@
+admin/getpic.htm
+getfile.htm
+left.htm
+menu.htm
+picture/getpic.htm
+top.htm
+up.htm
+upload.htm

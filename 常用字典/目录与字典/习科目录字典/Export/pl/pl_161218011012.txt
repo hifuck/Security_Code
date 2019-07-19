@@ -1,0 +1,6 @@
+admin.pl
+admin/admin_/login.pl
+admin/login.pl
+admin_/login.pl
+apexec.pl
+edit.pl

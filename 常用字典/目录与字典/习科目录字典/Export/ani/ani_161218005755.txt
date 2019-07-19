@@ -1,0 +1,15 @@
+data/mouse/mouse001.ani
+data/mouse/mouse002.ani
+data/mouse/mouse003.ani
+data/mouse/mouse004.ani
+data/mouse/mouse005.ani
+data/mouse/mouse006.ani
+data/mouse/mouse007.ani
+data/mouse/mouse008.ani
+data/mouse/mouse009.ani
+data/mouse/mouse010.ani
+data/mouse/mouse011.ani
+data/mouse/mouse012.ani
+data/mouse/mouse013.ani
+data/mouse/mouse014.ani
+data/mouse/mouse034.ani

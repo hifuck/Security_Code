@@ -1,0 +1,1 @@
+fckeditor/editor/filemanager/browser/default/browser.ht

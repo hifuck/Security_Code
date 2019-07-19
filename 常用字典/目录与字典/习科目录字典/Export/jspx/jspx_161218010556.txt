@@ -1,0 +1,11 @@
+a_admin.jspx
+admin.jspx
+admin/admin.jspx
+admin_soft.jspx
+aspxspy.jspx
+ASPXspy2.jspx
+gladmin.jspx
+gllogin.jspx
+login.jspx
+office.jspx
+soft_admin.jspx

@@ -1,0 +1,11 @@
+_vti_bin/shtml.dll/nosuch.jsp
+8080/servlet/org.apache.catalina.servlets.DefaultServlet/index.jsp
+admin/FCKeditor/editor/filemanager/browser/default/browser.jsp?Type=all&Connector=connectors/asp/connector.jsp
+admin/fckeditor/editor/filemanager/browser/default/browser.jsp?Type=Image&Connector=connectors/asp/connector.jsp
+admin/test.jsp/info.jsp
+admin/uploadPic.jsp?actionType=mod&picName=miao.jsp
+admin/WEB-INF/classes/ContextAdmin.java/x00.jsp
+Data.project/%23zxData.project%23.jsp
+DataBases/%23%23%23fdkjgzschool.V2009%23.jsp
+FCKeditor/editor/filemanager/browser/default/browser.html?Type=Image&Connector=connectors/jsp/connector.jsp
+FCKeditor/editor/filemanager/browser/default/browser.jsp?Type=all&Connector=connectors/asp/connector.jsp

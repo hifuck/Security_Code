@@ -1,0 +1,13 @@
+123.txt
+dede_admin.txt
+ftp.txt
+info.txt
+mima.txt
+NewFile.txt
+pass.txt
+password.txt
+qq.txt
+read.txt
+readme.txt
+Readme.txt
+robots.txt

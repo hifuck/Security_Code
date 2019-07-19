@@ -1,0 +1,8 @@
+../admin
+../admin/default
+../admin/index
+../admin/login
+../admin/manage
+asp-bin/manage
+st-admin
+xm#data

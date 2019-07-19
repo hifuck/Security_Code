@@ -1,0 +1,8 @@
+blog/blogdata/L-BLOG.mdb
+blogdata/L-BLOG.mdb
+data/data%23.asp
+data/data%23.mdb
+database/%23mmdata.mdb
+database/%23newasp.asa
+database/%23newasp.mdb
+upload.asp?action=upfile

@@ -1,0 +1,16 @@
+admin
+administrator
+adminlogin
+amd
+denglu
+guanli
+houtai
+login
+manage
+manager
+member
+members
+user
+users
+webadmin
+webmaster

@@ -1,0 +1,3 @@
+neowebscript/test/senvironment.nhtml
+neowebscript/tests/load_webenv.nhtml
+neowebscript/tests/mailtest.nhtml

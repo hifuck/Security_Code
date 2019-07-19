@@ -1,0 +1,10 @@
+asp-bin
+asp-bin/admin
+asp-bin/manage
+cgi-bin
+cgi-bin/admin
+cgi-bin/admin/m
+cgi-bin/login
+mh%5Fadmin
+netant%40_date
+netant@_date

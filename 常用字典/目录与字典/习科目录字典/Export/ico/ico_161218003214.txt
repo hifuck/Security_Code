@@ -1,0 +1,3 @@
+favicon.ico
+main/favicon.ico
+stats/favicon.ico

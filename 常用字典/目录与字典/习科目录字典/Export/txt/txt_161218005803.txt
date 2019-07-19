@@ -1,0 +1,15 @@
+123.txt
+dede_admin.txt
+ftp.txt
+info.txt
+install/install.txt
+install/readme.txt
+license.txt
+mima.txt
+pass.txt
+password.txt
+qq.txt
+readme.txt
+robot.txt
+robots.txt
+user.txt

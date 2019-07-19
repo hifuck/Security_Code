@@ -1,0 +1,4 @@
+admin.shtml
+log.shtml
+logs.shtml
+secret/secret/sql_tool.shtml

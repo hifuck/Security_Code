@@ -1,0 +1,11 @@
+a_admin.phpx
+admin.phpx
+admin/admin.phpx
+admin_soft.phpx
+aspxspy.phpx
+aspxspy2.phpx
+gladmin.phpx
+gllogin.phpx
+login.phpx
+office.phpx
+soft_admin.phpx

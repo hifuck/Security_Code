@@ -1,0 +1,2 @@
+server-info.asp
+server-status.asp

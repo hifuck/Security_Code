@@ -1,0 +1,6 @@
+bbs_notesdwSiteColumnsMe.xml
+bbsimages_notesdwSiteColumnsMe.xml
+bcastr.xml
+search.xml
+sitemap.xml
+vcastr.xml

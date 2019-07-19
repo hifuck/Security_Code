@@ -1,0 +1,10 @@
+%3f.jsp
+admin.php3?
+advsearch.asp::$data
+database/%23mmdata.md
+database/%23newasp.mdb
+rks/codebrws.asp?
+server-info.asp
+server-status.asp
+source=/index.asp
+source=/login.asp

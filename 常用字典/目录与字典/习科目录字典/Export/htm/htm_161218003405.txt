@@ -1,0 +1,7 @@
+admin.htm
+admin/adminLogin.htm
+admin/controlpanel.htm
+admin/login.htm
+admin1.htm
+login.htm
+relogin.htm

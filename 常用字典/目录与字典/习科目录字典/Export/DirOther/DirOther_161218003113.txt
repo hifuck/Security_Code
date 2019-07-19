@@ -1,0 +1,6 @@
+!admin!
+META-INF
+server-info
+server-status
+td#database
+WEB-INF

@@ -1,0 +1,9 @@
+a_admin.aspx
+admin/admin123.aspx
+admin_soft.aspx
+admin123.aspx
+gladmin.aspx
+gllogin.aspx
+login123.aspx
+office.aspx
+soft_admin.aspx

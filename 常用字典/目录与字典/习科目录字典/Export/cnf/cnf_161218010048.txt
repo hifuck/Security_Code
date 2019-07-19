@@ -1,0 +1,3 @@
+etc/my.cnf
+etc/mysql/my.cnf
+var/lib/mysql/my.cnf

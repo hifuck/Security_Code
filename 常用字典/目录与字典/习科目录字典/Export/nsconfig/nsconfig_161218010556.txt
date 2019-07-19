@@ -1,0 +1,3 @@
+.nsconfig
+main/.nsconfig
+scripts/.nsconfig

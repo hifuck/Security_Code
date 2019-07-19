@@ -1,0 +1,10 @@
+cgi_bin/admin/Select_feedback.php
+cgi_bin/Admin_SoftInfo.php
+cgi_bin/gb/register.php
+cgi_bin/sys.php
+cgi_bin/sys/login.php
+cgi_bin/system/login.php
+cgi_bin/systems/login.php
+sys.php
+system.php
+systems.php

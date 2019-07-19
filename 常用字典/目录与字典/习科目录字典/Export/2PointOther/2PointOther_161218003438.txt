@@ -1,0 +1,11 @@
+etc/logrotate.d/vsftpd.log
+etc/php4.4/fcgi/php.ini
+private/etc/httpd/httpd.conf.default
+usr/local/php/httpd.conf.php
+usr/local/php4/httpd.conf.php
+usr/local/php5/httpd.conf.php
+Volumes/Macintosh_HD1/usr/local/php/httpd.conf.php
+Volumes/Macintosh_HD1/usr/local/php4/httpd.conf.php
+Volumes/Macintosh_HD1/usr/local/php5/httpd.conf.php
+Volumes/webBackup/private/etc/httpd/httpd.conf.default
+www/logs/proftpd.system.log

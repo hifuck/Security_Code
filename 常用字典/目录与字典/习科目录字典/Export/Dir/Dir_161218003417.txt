@@ -1,0 +1,8 @@
+add_admin
+admin_pass
+count_admin
+index
+login
+login1
+super
+update

@@ -1,0 +1,5 @@
+admin/images/online.wav
+bbs/images/sound/pm_1.wav
+bbs/images/sound/pm_2.wav
+bbs/images/sound/pm_3.wav
+images/welcom.wav

@@ -1,0 +1,5 @@
+cgi-bin
+data-base
+members-only
+server-info
+server-status

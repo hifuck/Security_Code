@@ -1,0 +1,2 @@
+ewebeditor.jsp?id=x&style=standard
+upload.jsp?action=upfile

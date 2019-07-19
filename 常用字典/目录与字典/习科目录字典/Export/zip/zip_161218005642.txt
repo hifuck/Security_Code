@@ -1,0 +1,16 @@
+backup.zip
+beifen.zip
+dat.zip
+data.zip
+Data/data.zip
+Data/db.zip
+databack.zip
+databackup.zip
+databak.zip
+database.zip
+db.zip
+root.zip
+wangzhan.zip
+web.zip
+www.zip
+wwwroot.zip

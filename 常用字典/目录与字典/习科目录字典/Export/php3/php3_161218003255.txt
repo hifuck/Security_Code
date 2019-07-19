@@ -1,0 +1,4 @@
+admin.php3
+index.php3
+ndex.php3
+testno404page.php3

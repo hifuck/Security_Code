@@ -1,0 +1,1 @@
+data/xpi/chrome/content/blogmark/blogmarkOverlay.xul

@@ -1,0 +1,7 @@
+fckeditor/_samples/perl/sample01.cgi
+fckeditor/_samples/perl/sample02.cgi
+fckeditor/_samples/perl/sample03.cgi
+fckeditor/_samples/perl/sample04.cgi
+fckeditor/_samples/perl/sampleposteddata.cgi
+fckeditor/editor/filemanager/connectors/perl/connector.cgi
+fckeditor/editor/filemanager/connectors/perl/upload.cgi

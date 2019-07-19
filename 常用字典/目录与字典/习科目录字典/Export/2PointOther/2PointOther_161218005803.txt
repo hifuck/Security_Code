@@ -1,0 +1,3 @@
+database.inc.php
+include/config.inc.php
+uploads/index.html.bak

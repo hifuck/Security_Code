@@ -1,0 +1,3 @@
+cgi_bin/guanli-cn.asp
+cgi_bin/guanli-cn.aspx
+cgi-bin/System/Userlogin.asp

@@ -1,0 +1,9 @@
+404.html
+admin/login.html
+editor.html
+error.html
+index.html
+install.html
+License.html
+login.html
+upload/index.html

@@ -1,0 +1,2 @@
+merchants/admin.pw
+pw/storemgr.pw

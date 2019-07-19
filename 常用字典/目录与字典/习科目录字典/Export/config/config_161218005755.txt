@@ -1,0 +1,5 @@
+Admin/Web.config
+API/api.config
+data/typhoto.config
+Plus/wss/wss.config
+Web.config

@@ -1,0 +1,9 @@
+Admin.htm
+admin/index.htm
+admin/login.htm
+administration/login_form_admin.htm
+login.htm
+lzwadmin/admlogin.htm
+manage/index.htm
+manager.htm
+manger/index.htm

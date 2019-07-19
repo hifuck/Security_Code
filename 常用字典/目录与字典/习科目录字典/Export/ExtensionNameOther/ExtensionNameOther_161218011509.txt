@@ -1,0 +1,5 @@
+cgi-bin/login.asp
+cgi-bin/System/Userlogin.asp
+My-login.asp
+server-info.asp
+server-status.asp

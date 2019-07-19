@@ -1,0 +1,3 @@
+bbs/ipdata/tinyipdata.dat
+include/data/pinyin.dat
+includes/codetable/ipdata.dat

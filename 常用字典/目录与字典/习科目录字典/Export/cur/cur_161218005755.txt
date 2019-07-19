@@ -1,0 +1,5 @@
+data/mouse/mouse036.cur
+Images/Default/arr_left.cur
+Images/Default/arr_right.cur
+KS_Inc/highslide/graphics/zoomin.cur
+KS_Inc/highslide/graphics/zoomout.cur

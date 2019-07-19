@@ -1,0 +1,3 @@
+database/Default.aspx
+ewebeditornet/upload.aspx
+manage/admin/administrator.aspx

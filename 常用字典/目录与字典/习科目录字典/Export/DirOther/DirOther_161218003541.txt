@@ -1,0 +1,12 @@
+admin_admin{ext}
+admin_index{ext}
+admin{ext}
+admin1{ext}
+admin888{ext}
+adminlogin{ext}
+login{ext}
+logout{ext}
+manage{ext}
+member{ext}
+user{ext}
+users{ext}

@@ -1,0 +1,13 @@
+admin.php?mod=phpcms%26file=login##PhpCms
+admin/privilege.php?act=login##EcShop
+bbs/club/stats.php##Discuz
+bbs/sort.php?action=ipstate##PhpWind
+club/stats.php##Discuz
+dede/login.php##DedeCms
+help/tour.php##ZuiTu
+shop/admin/privilege.php?act=login##EcShop
+shop/shopadmin/index.php?ctl=passport%26act=login##ShopEx
+shopadmin/index.php?ctl=passport%26act=login##ShopEx
+sort.php?action=ipstate##PhpWind
+static/js/admincp.js##Discuz!X2
+wp-login.php##WordPress

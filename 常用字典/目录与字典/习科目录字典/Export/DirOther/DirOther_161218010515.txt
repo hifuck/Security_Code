@@ -1,0 +1,16 @@
+!admin!
+adm@in
+admin/wo%5Fedit
+admin/wo%5Fedit/editor
+admin/wo%5Fedit/editor/filemanager
+bbs-data
+FCKeditor/editor/filemanager/browser/default/connectors/jsp/connector?Command=GetFoldersAndFiles&Type=&CurrentFolder=%2F
+Moo-admin
+Ms-admin
+office/web%5Fadmin
+st-admin
+WEB-INF
+wp-admin
+wp-content
+wp-includes
+Z-Blog

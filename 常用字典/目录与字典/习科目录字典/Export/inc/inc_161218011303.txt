@@ -1,0 +1,3 @@
+admin/inc/config.inc
+upload.inc
+yzstar/1upload_wj.inc

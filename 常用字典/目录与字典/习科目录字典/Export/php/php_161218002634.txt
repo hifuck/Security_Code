@@ -1,0 +1,7 @@
+config.php
+info.php
+info1.php
+phpinfo.php
+phpinfo1.php
+test.php
+test1.php

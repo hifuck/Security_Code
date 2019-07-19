@@ -1,0 +1,6 @@
+Arrow.ani
+bbs/Skins/lb/mouse.ani
+Skins/com_1/mouse.ani
+Skins/com_5/MOUSE.ANI
+Skins/com_5/ZSSHJ.ANI
+Skins/com_9/mouse.ani

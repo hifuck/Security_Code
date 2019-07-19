@@ -1,0 +1,11 @@
+***
+../admin/default
+../admin/index
+../admin/login
+../admin/manage
+.idq
+bbs/cgi-bin
+cgi-bin
+event.ng
+server-info
+server-status

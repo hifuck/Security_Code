@@ -1,0 +1,11 @@
+a_admin.aspxx
+admin.aspxx
+admin/admin.aspxx
+admin_soft.aspxx
+aspxspy.aspxx
+ASPXspy2.aspxx
+gladmin.aspxx
+gllogin.aspxx
+login.aspxx
+office.aspxx
+soft_admin.aspxx

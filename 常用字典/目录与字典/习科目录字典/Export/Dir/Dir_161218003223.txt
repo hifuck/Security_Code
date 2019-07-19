@@ -1,0 +1,17 @@
+ad
+admin
+bbs
+count
+Data
+DataBackup
+dvbbs
+images
+img
+inc
+login
+news
+PreviewImage
+Skins
+UploadFace
+UploadFile
+user

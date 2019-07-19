@@ -1,0 +1,7 @@
+admin.cgi
+apexec.cgi
+count.cgi
+download.cgi
+gbook.cgi
+gbook/gbook.cgi
+guestbook.cgi

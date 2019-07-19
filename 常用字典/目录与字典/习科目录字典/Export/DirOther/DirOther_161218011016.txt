@@ -1,0 +1,9 @@
+!admin!
+adm@in
+asp-bin
+bbs-data
+cgi-bin
+Data.project
+Ms-admin
+st-admin
+Z-Blog

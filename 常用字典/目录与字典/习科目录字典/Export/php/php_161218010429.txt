@@ -1,0 +1,16 @@
+admin888/admin.php
+beingmate_in.php
+do/reg.php
+FCKeditor/editor/filemanager/upload/php/upload.php
+fonts/login.php
+Html/fckeditor/fckeditor.php
+intraAdmin/admin.php
+intraAdmin/imagemanager.php
+intraAdmin/modules/pm/include/install.php
+intraAdmin/modules/pm/include/update.php
+intraAdmin/phpmyadmin/db_create.php
+phpmyadmin/db_create.php
+syssite/install/ini_setup.php
+syssite/shopadmin/core.php
+tag.php
+test.php

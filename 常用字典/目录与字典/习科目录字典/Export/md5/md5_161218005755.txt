@@ -1,0 +1,3 @@
+admin/ecshopfiles.md5
+bbs/admin/discuzdb.md5
+bbs/admin/discuzfiles.md5

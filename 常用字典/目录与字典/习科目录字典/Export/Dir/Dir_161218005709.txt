@@ -1,0 +1,1 @@
+admin/data/qcdn_news

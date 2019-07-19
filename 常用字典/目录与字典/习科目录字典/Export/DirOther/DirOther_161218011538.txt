@@ -1,0 +1,7 @@
+../admin
+../admin/default
+../admin/index
+../admin/login
+../admin/manage
+bbs/cgi-bin
+cgi-bin

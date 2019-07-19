@@ -1,0 +1,2 @@
+Editor/upload.aspx
+eWebEditor/upload.aspx

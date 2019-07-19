@@ -1,0 +1,8 @@
+bbs-admin.jsp
+cgi_bin/guanli-cn.asp
+cgi-bin/System/Userlogin.asp
+guanli-cn.asp
+login-admin.jsp
+penit-admin.jsp
+relogin-admin.jsp
+servicesystem/login-admin.jsp

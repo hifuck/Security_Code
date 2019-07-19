@@ -1,0 +1,5 @@
+admin/ew/upload.as
+admin_upfile.as
+dxxobbs/upload.as
+main1.as
+member/upfile.as

@@ -1,0 +1,3 @@
+blabla.idw
+eatme.idw
+test.idw

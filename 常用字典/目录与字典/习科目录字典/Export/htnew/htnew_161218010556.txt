@@ -1,0 +1,4 @@
+.htnew
+_privat/.htnew
+cgibin/.htnew
+secure/.htnew

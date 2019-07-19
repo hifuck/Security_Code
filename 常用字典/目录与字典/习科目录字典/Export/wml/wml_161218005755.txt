@@ -1,0 +1,13 @@
+wap/templates/article.wml
+wap/templates/article_list.wml
+wap/templates/brands.wml
+wap/templates/buy.wml
+wap/templates/category.wml
+wap/templates/comment.wml
+wap/templates/goods.wml
+wap/templates/goods_img.wml
+wap/templates/goods_list.wml
+wap/templates/index.wml
+wap/templates/login.wml
+wap/templates/order_list.wml
+wap/templates/user.wml

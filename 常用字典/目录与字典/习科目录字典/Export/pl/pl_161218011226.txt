@@ -1,0 +1,7 @@
+admin.pl
+admin/admin_login.pl
+admin/login.pl
+admin_login.pl
+apexec.pl
+edit.pl
+testno404page.pl

@@ -1,0 +1,4 @@
+admin/patch_num
+demo/README
+docs
+upgrade

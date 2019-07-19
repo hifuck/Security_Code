@@ -1,0 +1,11 @@
+1.php
+a_admin.php
+adminsys.php
+gbackoffice/login.php
+gladmin.php
+gllogin.php
+memberlogin.php
+office.php
+sysadmin.php
+upfile_infoimg.php
+upfile_proimg.php

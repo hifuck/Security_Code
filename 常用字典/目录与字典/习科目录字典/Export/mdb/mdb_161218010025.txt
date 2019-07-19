@@ -1,0 +1,8 @@
+bbs/databackup/dvbbs7.mdb
+data/dvbbs7.mdb
+data/qcdn_news.mdb
+databackup/dvbbs5.mdb
+databackup/dvbbs6.mdb
+databackup/dvbbs7.mdb
+db/6k.mdb
+friend.mdb

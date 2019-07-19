@@ -1,0 +1,17 @@
+Fso_image/Thumbs.db
+images/brow/Thumbs.db
+images/Emotions/Thumbs.db
+images/face/Thumbs.db
+images/plus/Thumbs.db
+images/show/Thumbs.db
+images/skins/1/Thumbs.db
+images/skins/2/Thumbs.db
+images/skins/3/Thumbs.db
+images/skins/Thumbs.db
+images/star/Thumbs.db
+images/Thumbs.db
+images/upface/Thumbs.db
+images/ybb/Thumbs.db
+pic/Thumbs.db
+scripts/clients.db
+scripts/password.db

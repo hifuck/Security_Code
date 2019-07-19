@@ -1,0 +1,2 @@
+ewebeditor.asp?id=x&style=standard
+upload.asp?action=upfile

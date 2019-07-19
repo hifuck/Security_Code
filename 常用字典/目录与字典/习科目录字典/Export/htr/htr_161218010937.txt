@@ -1,0 +1,12 @@
+iisadmpwd/achg.htr
+iisadmpwd/aexp.htr
+iisadmpwd/aexp2.htr
+iisadmpwd/aexp2b.htr
+iisadmpwd/aexp3.htr
+iisadmpwd/aexp4.htr
+iisadmpwd/aexp4b.htr
+iisadmpwd/anot.htr
+iisadmpwd/anot3.htr
+scripts/iisadmin/bdir.htr
+scripts/iisadminbdir.htr
+scripts/issadmin/bdir.htr

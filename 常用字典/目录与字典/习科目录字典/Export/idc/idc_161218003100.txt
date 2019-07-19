@@ -1,0 +1,11 @@
+null.idc
+scripts/iisadmin/samples/ctgestb.idc
+scripts/iisadmin/samples/details.idc
+scripts/iisadmin/samples/query.idc
+scripts/iisadmin/samples/register.idc
+scripts/iisadmin/samples/sample.idc
+scripts/iisadmin/samples/viewbook.idc
+scripts/iisadmin/tools/ctss.idc
+scripts/samples/ctguestb.idc
+scripts/samples/details.idc
+scripts/tools/details.idc

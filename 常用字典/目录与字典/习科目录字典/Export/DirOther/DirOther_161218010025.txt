@@ -1,0 +1,9 @@
+***
+../admin/default
+../admin/fuckyou
+../admin/index
+../admin/login
+../admin/manage
+[ADMIN_LOGIN]
+server-info
+server-status
