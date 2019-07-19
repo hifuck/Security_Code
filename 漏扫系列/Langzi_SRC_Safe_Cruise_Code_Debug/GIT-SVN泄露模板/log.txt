@@ -1,0 +1,8 @@
+***********************************
+2019-05-03:12:31:36   HTTPConnectionPool(host='seo.chinaz.com', port=80): Read timed out. (read timeout=20)
+***********************************
+2019-05-03:12:31:51   local variable 'r' referenced before assignment
+***********************************
+2019-05-03:12:50:35   HTTPConnectionPool(host='seo.chinaz.com', port=80): Read timed out. (read timeout=20)
+***********************************
+2019-05-03:12:50:39   local variable 'r' referenced before assignment

@@ -1,0 +1,5 @@
+***********************************
+2019-05-03:10:44:10   Message: Browsing context has been discarded
+
+***********************************
+2019-05-03:10:45:21   __init__() missing 1 required positional argument: 'current_handles'

@@ -1,0 +1,16 @@
+mobile.imqq.com
+reg.imqq.com
+ptlogin2.imqq.com
+www.imqq.com
+blog.imqq.com
+static.imqq.com
+login.imqq.com
+passport.imqq.com
+groups.imqq.com
+id.imqq.com
+pay.imqq.com
+feeds.imqq.com
+mp.imqq.com
+proxy.imqq.com
+voip.imqq.com
+culture.imqq.com

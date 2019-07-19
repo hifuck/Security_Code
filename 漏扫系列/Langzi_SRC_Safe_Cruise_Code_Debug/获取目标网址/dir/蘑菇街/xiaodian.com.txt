@@ -1,0 +1,3 @@
+api.xiaodian.com
+imap.xiaodian.com
+smtp.xiaodian.com

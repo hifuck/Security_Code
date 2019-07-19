@@ -1,0 +1,2 @@
+imap.uniny.com
+stmp.uniny.com

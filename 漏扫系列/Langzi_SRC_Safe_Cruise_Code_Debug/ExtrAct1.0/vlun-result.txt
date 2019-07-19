@@ -1,0 +1,9 @@
+http://insp.ccic.com/a.zip   215M
+http://www.cern.ac.cn/a.zip   42M
+http://bbs.sjtu.edu.cn/a.zip   33M
+http://www.cnecop.com/a.zip   1960M
+http://www.niumowang.com/a.zip   12M
+http://www.web-sun.cn/web.zip   2485M
+http://www.nia.net.cn/web.zip   641M
+http://www.hnadsl.com/web.zip   2M
+http://www.jlcmjt.com/web.zip   1810M
