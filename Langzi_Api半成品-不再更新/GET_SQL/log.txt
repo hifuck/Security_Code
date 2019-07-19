@@ -1,0 +1,163 @@
+-------------------------------------
+2018-12-03:19:07:54   F:\CODE\Langzi_Api\GET_SQL\lib\python.exe F:\CODE\Langzi_Api\GET_SQL\lib\sqlmap\sqlmap.py -u http://www.hxrc.com/rcnew/SeniorSearchJobInFront.aspx?SearchKind=1^&KeyWord=%u4EBA%u529B%u8D44%u6E90%u4E3B%u7BA1^&area= --batch --thread=10 --random-agent
+-------------------------------------
+2018-12-03:19:09:35           ___
+       __H__
+ ___ ___[)]_____ ___ ___  {1.2.11.6#dev}
+|_ -| . [,]     | .'| . |
+|___|_  [.]_|_|_|__,|  _|
+      |_|V          |_|   http://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 19:07:55 /2018-12-03/
+
+[19:07:55] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Windows; U; Windows NT 6.0; it; rv:1.9.1b2) Gecko/20081201 Firefox/3.1b2' from file 'F:\CODE\Langzi_Api\GET_SQL\lib\sqlmap\txt\user-agents.txt'
+[19:07:56] [WARNING] provided value for parameter 'area' is empty. Please, always use only valid parameter values so sqlmap could be able to run properly
+[19:07:56] [INFO] testing connection to the target URL
+[19:07:56] [CRITICAL] previous heuristics detected that the target is protected by some kind of WAF/IPS
+[19:07:56] [INFO] testing if the target URL content is stable
+[19:07:57] [INFO] target URL content is stable
+[19:07:57] [INFO] testing if GET parameter 'SearchKind' is dynamic
+[19:07:58] [WARNING] GET parameter 'SearchKind' does not appear to be dynamic
+[19:07:58] [WARNING] heuristic (basic) test shows that GET parameter 'SearchKind' might not be injectable
+[19:07:59] [INFO] testing for SQL injection on GET parameter 'SearchKind'
+[19:07:59] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[19:07:59] [WARNING] reflective value(s) found and filtering out
+[19:08:05] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[19:08:05] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[19:08:05] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[19:08:07] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[19:08:09] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[19:08:09] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[19:08:09] [INFO] testing 'MySQL inline queries'
+[19:08:09] [INFO] testing 'PostgreSQL inline queries'
+[19:08:10] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[19:08:10] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[19:08:11] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[19:08:13] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[19:08:13] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind'
+[19:08:14] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[19:08:14] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[19:08:16] [INFO] testing 'Oracle AND time-based blind'
+[19:08:18] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[19:08:26] [WARNING] GET parameter 'SearchKind' does not seem to be injectable
+[19:08:26] [INFO] testing if GET parameter 'KeyWord' is dynamic
+[19:08:27] [WARNING] GET parameter 'KeyWord' does not appear to be dynamic
+[19:08:27] [WARNING] heuristic (basic) test shows that GET parameter 'KeyWord' might not be injectable
+[19:08:28] [INFO] testing for SQL injection on GET parameter 'KeyWord'
+[19:08:28] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[19:08:35] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[19:08:35] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[19:08:35] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[19:08:37] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[19:08:39] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[19:08:40] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[19:08:40] [INFO] testing 'MySQL inline queries'
+[19:08:40] [INFO] testing 'PostgreSQL inline queries'
+[19:08:40] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[19:08:41] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[19:08:42] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[19:08:44] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[19:08:44] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind'
+[19:08:46] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[19:08:46] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[19:08:47] [INFO] testing 'Oracle AND time-based blind'
+[19:08:49] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[19:08:59] [WARNING] GET parameter 'KeyWord' does not seem to be injectable
+[19:08:59] [INFO] testing if GET parameter 'area' is dynamic
+[19:09:00] [WARNING] GET parameter 'area' does not appear to be dynamic
+[19:09:00] [WARNING] heuristic (basic) test shows that GET parameter 'area' might not be injectable
+[19:09:01] [INFO] testing for SQL injection on GET parameter 'area'
+[19:09:01] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[19:09:10] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[19:09:10] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[19:09:10] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[19:09:13] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[19:09:16] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[19:09:16] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[19:09:16] [INFO] testing 'MySQL inline queries'
+[19:09:16] [INFO] testing 'PostgreSQL inline queries'
+[19:09:17] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[19:09:18] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[19:09:19] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[19:09:20] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[19:09:20] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind'
+[19:09:22] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[19:09:22] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[19:09:24] [INFO] testing 'Oracle AND time-based blind'
+[19:09:26] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[19:09:35] [WARNING] GET parameter 'area' does not seem to be injectable
+[19:09:35] [CRITICAL] all tested parameters do not appear to be injectable. Try to increase values for '--level'/'--risk' options if you wish to perform more tests. If you suspect that there is some kind of protection mechanism involved (e.g. WAF) maybe you could try to use option '--tamper' (e.g. '--tamper=space2comment')
+
+[*] ending @ 19:09:35 /2018-12-03/
+
+
+-------------------------------------
+2018-12-03:19:09:35   F:\CODE\Langzi_Api\GET_SQL\lib\python.exe F:\CODE\Langzi_Api\GET_SQL\lib\sqlmap\sqlmap.py -u http://app.hxrc.com/services/news/news1_0_206_0*.html --batch --thread=10 --random-agent
+-------------------------------------
+2018-12-03:19:09:57           ___
+       __H__
+ ___ ___[.]_____ ___ ___  {1.2.11.6#dev}
+|_ -| . ["]     | .'| . |
+|___|_  [(]_|_|_|__,|  _|
+      |_|V          |_|   http://sqlmap.org
+
+[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
+[*] starting @ 19:09:36 /2018-12-03/
+
+[19:09:36] [INFO] fetched random HTTP User-Agent header value 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2; ru-ru) AppleWebKit/533.2+ (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10' from file 'F:\CODE\Langzi_Api\GET_SQL\lib\sqlmap\txt\user-agents.txt'
+custom injection marker ('*') found in option '-u'. Do you want to process it? [Y/n/q] Y
+[19:09:37] [INFO] testing connection to the target URL
+[19:09:39] [INFO] heuristics detected web page charset 'GB2312'
+[19:09:39] [INFO] checking if the target is protected by some kind of WAF/IPS
+[19:09:39] [CRITICAL] heuristics detected that the target is protected by some kind of WAF/IPS
+do you want sqlmap to try to detect backend WAF/IPS? [y/N] N
+[19:09:39] [WARNING] dropping timeout to 10 seconds (i.e. '--timeout=10')
+[19:09:39] [INFO] testing if the target URL content is stable
+[19:09:39] [INFO] target URL content is stable
+[19:09:39] [INFO] testing if URI parameter '#1*' is dynamic
+[19:09:39] [WARNING] URI parameter '#1*' does not appear to be dynamic
+[19:09:39] [WARNING] heuristic (basic) test shows that URI parameter '#1*' might not be injectable
+[19:09:40] [INFO] testing for SQL injection on URI parameter '#1*'
+[19:09:40] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+[19:09:41] [INFO] testing 'Boolean-based blind - Parameter replace (original value)'
+[19:09:41] [INFO] testing 'MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)'
+[19:09:41] [CRITICAL] unable to connect to the target URL (''). sqlmap is going to retry the request(s)
+[19:09:41] [WARNING] if the problem persists please try to lower the number of used threads (option '--threads')
+[19:09:41] [CRITICAL] unable to connect to the target URL ('')
+[19:09:41] [CRITICAL] unable to connect to the target URL (''). sqlmap is going to retry the request(s)
+[19:09:41] [CRITICAL] unable to connect to the target URL ('')
+[19:09:41] [CRITICAL] unable to connect to the target URL (''). sqlmap is going to retry the request(s)
+[19:09:41] [CRITICAL] unable to connect to the target URL ('')
+[19:09:42] [CRITICAL] unable to connect to the target URL (''). sqlmap is going to retry the request(s)
+there seems to be a continuous problem with connection to the target. Are you sure that you want to continue with further target testing? [y/N] N
+[19:09:42] [CRITICAL] unable to connect to the target URL ('')
+[19:09:42] [CRITICAL] unable to connect to the target URL (''). sqlmap is going to retry the request(s)
+[19:09:42] [CRITICAL] unable to connect to the target URL ('')
+[19:09:42] [INFO] testing 'PostgreSQL AND error-based - WHERE or HAVING clause'
+[19:09:42] [INFO] testing 'Microsoft SQL Server/Sybase AND error-based - WHERE or HAVING clause (IN)'
+[19:09:43] [INFO] testing 'Oracle AND error-based - WHERE or HAVING clause (XMLType)'
+[19:09:43] [INFO] testing 'MySQL >= 5.0 error-based - Parameter replace (FLOOR)'
+[19:09:43] [CRITICAL] unable to connect to the target URL (''). sqlmap is going to retry the request(s)
+[19:09:43] [CRITICAL] unable to connect to the target URL ('')
+[19:09:43] [INFO] testing 'MySQL inline queries'
+[19:09:43] [INFO] testing 'PostgreSQL inline queries'
+[19:09:43] [INFO] testing 'Microsoft SQL Server/Sybase inline queries'
+[19:09:43] [INFO] testing 'PostgreSQL > 8.1 stacked queries (comment)'
+[19:09:44] [INFO] testing 'Microsoft SQL Server/Sybase stacked queries (comment)'
+[19:09:44] [INFO] testing 'Oracle stacked queries (DBMS_PIPE.RECEIVE_MESSAGE - comment)'
+[19:09:45] [INFO] testing 'MySQL >= 5.0.12 AND time-based blind'
+[19:09:45] [INFO] testing 'PostgreSQL > 8.1 AND time-based blind'
+[19:09:46] [INFO] testing 'Microsoft SQL Server/Sybase time-based blind (IF)'
+[19:09:47] [INFO] testing 'Oracle AND time-based blind'
+[19:09:48] [INFO] testing 'Generic UNION query (NULL) - 1 to 10 columns'
+[19:09:57] [WARNING] URI parameter '#1*' does not seem to be injectable
+[19:09:57] [CRITICAL] all tested parameters do not appear to be injectable. Try to increase values for '--level'/'--risk' options if you wish to perform more tests. If you suspect that there is some kind of protection mechanism involved (e.g. WAF) maybe you could try to use option '--tamper' (e.g. '--tamper=space2comment')
+[19:09:57] [WARNING] HTTP error codes detected during run:
+400 (Bad Request) - 3 times, 404 (Not Found) - 117 times
+
+[*] ending @ 19:09:57 /2018-12-03/
+
+

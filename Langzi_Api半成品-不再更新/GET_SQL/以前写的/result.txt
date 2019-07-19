@@ -1,0 +1,36 @@
+url:http://www.fjndter.com/newsView.php?sortid=3&&id=49
+dbms:MYSQL
+type:Eroror_Base_Injection
+payload:%27
+-----------------------------
+
+url:http://www.fjndter.com/newsView.php
+dbms:MYSQL
+type:Post_Error_Base_Injection
+payload:{'': ''}
+-----------------------------
+
+url:http://www.fjndter.com/productsView.php?sortFid=22
+dbms:MYSQL
+type:Eroror_Base_Injection
+payload:%27
+-----------------------------
+
+url:http://www.fjndter.com/productsView.php22%27
+dbms:MYSQL
+type:Post_Error_Base_Injection
+payload:{'sortFid': '22%27'}
+-----------------------------
+
+url:http://www.fjndter.com/productsView.php?sortFid=23
+dbms:MYSQL
+type:Eroror_Base_Injection
+payload:%27
+-----------------------------
+
+url:http://www.fjndter.com/productsView.php23%27
+dbms:MYSQL
+type:Post_Error_Base_Injection
+payload:{'sortFid': '23%27'}
+-----------------------------
+
