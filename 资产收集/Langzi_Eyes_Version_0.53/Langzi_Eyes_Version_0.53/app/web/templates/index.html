@@ -1,0 +1,57 @@
+{% extends 'layout.html' %}
+{% block content %}
+    {{ super() }}
+
+
+
+    <div class="col-md-5">
+    <div>
+    <h2>LangZi_Eyes信息采集系统</h2>
+    <p>
+
+        <br>
+        目前为0.53版本
+        <br>
+
+        集成如下功能
+<br>
+        <li>无限网址全自动化采集入库</li>
+        <li>对网址标题，内容，IP地址，端口开放，端口服务信息采集</li>
+        <li>网址CMS信息采集</li>
+        <li>一键提取，下载符合要求的网址与IP</li>
+        <li>获取网址的真实IP</li>
+        <li>获取网址的子域名</li>
+    </p>
+    </div>
+    <hr>
+    <div>
+    <h2>使用方法</h2>
+    <br>在目录/app/web/config.py 设置好登陆账号，密码，数据库账号密码等等
+        <br>
+        CMS指纹库在cms_db.py文件中,可自行添加
+    <br>
+        测试机器配置:8G-100M-8H 开的50线程
+    <br>
+    登陆进入后，在输入框输入想要查询的信息即可获取结果<br>
+    <br>
+    页面非常粗糙，但是不影响核心功能使用<br>
+
+    后面两周会美化拓展的....2018年10月29日21:55:53
+<br>
+
+    </div>
+   </div>
+
+
+    <div class="col-md-7">
+    <form action="{{ url_for('web.login') }}" method="post">
+
+    USERNAME:<input type="text" name="user">
+        <br>
+        <br>
+    PASSWORD:<input type="password" name="pass">
+        <br>
+    <button type="submit">LOGIN</button>
+    </form>
+</div>
+{% endblock %}

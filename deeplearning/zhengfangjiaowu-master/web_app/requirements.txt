@@ -1,0 +1,8 @@
+keras
+tensorflow
+numpy
+pillow
+flask
+requests
+gevent
+bs4

@@ -1,0 +1,70 @@
+﻿# coding:utf-8
+import requests
+import re
+import os
+import multiprocessing
+
+#厉害啊居然能看到这里，一个黄色网址的信息爬虫就送给你啦~
+
+def down_img_torrnet(urlimg,urltor,ways):
+    try:
+        ways = ways.decode('utf-8')
+        os.mkdir(ways)
+        r = requests.get(urlimg).content
+
+        with open(ways + '/main.jpg','wb') as a:
+            a.write(r)
+        with open(ways + '/main.txt','a+')as a:
+            a.write(urltor)
+    except Exception,e:
+        print e
+
+def get_info(urls):
+    try:
+        r = requests.get(urls)
+        title = re.search('<h1>(.*?)</h1>',r.content).group(1)
+        img_pattern = re.search('<meta property="og:image" content="(.*?)"/>',r.content).group(1)
+        mp4_parrern = re.search('src="(.*?)mp4',r.content).group(1)
+        img = 'http://www.5588s.cn/' + img_pattern
+        mp4 = mp4_parrern + 'mp4'
+        print unicode('标题:','utf-8') + unicode(title,'utf-8')+  unicode('网址:','utf-8') + urls 
+        down_img_torrnet(img,mp4,title)
+    except Exception,e:
+        print e
+
+def get_all_url(url):
+    urls = []
+    try:
+      r = requests.get(url)
+      url_pattern = re.findall('<a href="/(.*?)" title=',r.content)
+      for x in url_pattern:
+          urls.append('http://www.5588s.cn/' + x)
+    except Exception,e:
+        print e
+    return urls
+
+
+def gogo(x_urls):
+    all_urls = get_all_url(x_urls)
+    for x in all_urls:
+        get_info(x)
+
+if __name__ == '__main__':
+    multiprocessing.freeze_support()
+    luanlun = 'http://www.5588s.cn/luanlun/list_6_'  # 14页 list_6_
+    rihan = 'http://www.5588s.cn/rihan/list_3_'  # 11页 http://www.5588s.cn/rihan/list_3_
+    guochan = 'http://www.5588s.cn/guochan/list_2_'  # 16页  list_2_
+    luoli = 'http://www.5588s.cn/luoli/list_4_'  # 16页 http://www.5588s.cn/luoli/list_4_1.html
+    luanluns = [luanlun + str(x) + '.html' for x in range(1, 15)]
+    rihans = [rihan + str(x) + '.html' for x in range(1, 12)]
+    guochans = [guochan + str(x) + '.html' for x in range(1, 17)]
+    luolis = [luoli + str(x) + '.html' for x in range(1, 17)]
+
+    all_urls = rihans + guochans + luolis + luanluns
+
+    p = multiprocessing.Pool(20)
+    for x in all_urls:
+        p.apply_async(gogo,args=(x,))
+    p.close()
+    p.join()
+

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Langzi_Eyes</title>
+
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-type" content="no-cache, must-revalidate" />
+<meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 GMT"/>
+
+</head>
+<body>
+{% block head %}
+<link rel="stylesheet" href='{{url_for("static",filename="css/bootstrap-theme.min.css")}}'>
+<link rel="stylesheet" href='{{url_for("static",filename="css/bootstrap.min.css")}}'>
+<link rel="stylesheet" href='{{url_for("static",filename="css/main.css")}}'>
+{% endblock %}
+
+
+
+{% block content %}
+{% endblock %}
+
+
+
+{% block foot %}
+<link rel="stylesheet" href='{{url_for("static",filename="js/jquery.js")}}'>
+<link rel="stylesheet" href='{{url_for("static",filename="js/bootstrap.min.js")}}'>
+
+{% endblock %}
+</body>
+</html>

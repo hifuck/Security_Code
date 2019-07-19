@@ -1,0 +1,11 @@
+https://open.fuiou.com
+http://sms.fuiou.com
+http://sso.fuiou.com
+https://cg.fuiou.com
+https://www.fuiou.com
+http://ftp.fuiou.com
+http://g.fuiou.com
+https://up.fuiou.com
+https://jf.fuiou.com
+https://b.fuiou.com
+http://pay.fuiou.com

@@ -1,0 +1,2 @@
+http://www.infinitinews.com.cn/phpmyadmin/index.php|admin|0
+http://www.zghmwh.com/phpmyadmin/index.php|root|root

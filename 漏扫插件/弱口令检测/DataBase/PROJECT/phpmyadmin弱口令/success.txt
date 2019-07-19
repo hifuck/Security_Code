@@ -1,0 +1,2 @@
+http://www.car136.com/phpmyadmin/index.php|root|root
+http://www.315net.net/phpmyadmin/index.php|root|root

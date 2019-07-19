@@ -1,0 +1,96 @@
+{% extends 'layout.html' %}
+{% block content %}
+    {{ super() }}
+
+<div class="navbar navbar-default">
+<div class="navbar-header">
+    <a class="navbar-brand" href="{{url_for('web.index')}}">LanGZi Eyes</a>
+</div>
+    <ul class="nav navbar-nav">
+        <li><a href="{{ url_for('web.index') }}">HOME</a></li>
+        <li><a href="{{ url_for('web.cms_map') }}">CMS MAP</a></li>
+        <li><a href="{{ url_for('web.ip_map') }}">IP MAP</a></li>
+    </ul>
+</div>
+
+
+
+
+    <div class="col-md-2">
+
+
+    <div class="panel panel-default">
+   <div class="panel-heading">
+      已检测真实IP数量 : {{ ic }} 个
+   </div>
+
+                <div class="panel-heading">
+     已检测端口运行服务 : {{ bc }} 个
+    </div>
+        {% for x,y in dataa.items() %}
+                <div class="panel-body">
+     {{ x }} 端口 : {{ y }}
+    </div>
+{% endfor %}
+</div>
+
+    </div>
+
+
+
+
+    <div class="col-md-8">
+
+    {% for x,y in data.items() %}
+
+<font size="{{ y }}">
+
+ <span class="{{ ["label label-default","label label-success","label label-info","label label-warning","label label-danger"]|random }}" >
+     <a href="{{ url_for("web.ip_lists",name = x)}}">
+         {{ x }}:{{ y }}</a>
+ </span>
+
+</font>
+
+      {% endfor %}
+
+
+    </div>
+
+    <div class="col-md-2">
+<div class="panel panel-default">
+   <div class="panel-heading">
+      查询网址真实IP
+   </div>
+    <div class="panel-body">
+        确保URL格式为 : http://www.langzi.fun
+
+    </div>
+</div>
+    <form class="navbar-form" action="{{ url_for('web.ip_list') }}" method="get">
+        <div class="form-group">
+            <input type="text" class="form-control" name="url" placeholder="http://www.langzi.fun">
+        </div>
+        <button type="submit" class="btn btn-default">查询</button>
+    </form>
+
+
+    <hr>
+    <div class="panel panel-default">
+   <div class="panel-heading">
+      查询网址子域名
+   </div>
+    <div class="panel-body">
+        确保URL格式为 : baidu.com
+
+    </div>
+</div>
+    <form class="navbar-form" action="{{ url_for('web.subip') }}" method="get">
+        <div class="form-group">
+            <input type="text" class="form-control" name="url" placeholder="baidu.com">
+        </div>
+        <button type="submit" class="btn btn-default">查询</button>
+    </form>
+
+    </div>
+{% endblock %}

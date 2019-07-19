@@ -1,0 +1,79 @@
+{% extends 'layout.html' %}
+{% block content %}
+    {{ super() }}
+
+
+        <style>
+        .a{
+            width: 300px;
+            height: 30px;
+
+        }
+        #b{
+            width: 500px;
+            border: 1px ;
+            text-align: right;        /*右对齐*/·
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="navbar navbar-default">
+<div class="navbar-header">
+    <a class="navbar-brand" href="{{url_for('web.index')}}">LanGZi Eyes</a>
+</div>
+    <ul class="nav navbar-nav">
+        <li><a href="{{ url_for('web.index') }}">HOME</a></li>
+        <li><a href="{{ url_for('web.cms_map') }}">CMS MAP</a></li>
+        <li><a href="{{ url_for('web.ip_map') }}">IP MAP</a></li>
+    </ul>
+</div>
+
+<div class="col-md-3">
+    <div class="panel panel-default">
+   <div class="panel-heading">
+      数据库总数据: {{ da }} 条
+   </div>
+
+                <div class="panel-body">
+     CMS指纹库种类: {{ daaa }} 种
+    </div>
+                <div class="panel-body">
+     CMS指纹库数量: {{ daaaa }} 条
+    </div>
+        <div class="panel-body">
+     已识别CMS数量: {{ daa }} 条
+    </div>
+        <div class="panel-body">
+     已鉴定真实IPs: {{ ad }} 条
+    </div>
+</div>
+    <div>
+    全国漏洞可视化视图:前面的还没弄完...
+
+</div>
+</div>
+
+
+
+<div class="col-md-9">
+    <div id="b">
+
+    <form class="container container-small" action="{{ url_for('web.searchs') }}" method="POST" >
+    <div class="a">
+        <li>网址:<input type="text" name='url' class="form-group" placeholder="langzi.fun"></li>
+        <li>标题:<input type="text" name="title" class="form-group" placeholder="浪子博客"></li>
+        <li>内容:<input type="text" name="content" class="form-group" placeholder="漏洞扫描器"></li>
+        <li>CMS:<input type="text" name="cms" class="form-group" placeholder="DedeCMS"></li>
+        <li>地理位置:<input type="text" name="address" class="form-group" placeholder="美国"></li>
+        <li>IP地址:<input type="text" name="ip" class="form-group" placeholder="127.0.0.1"></li>
+        <li>端口开放:<input type="text" name="port" class="form-group" placeholder="7001"></li>
+        <li>端口服务:<input type="text" name="server" class="form-group" placeholder="Mysql"></li>
+        <li>服务器信息:<input type="text" name="service" class="form-group" placeholder="nginx"></li>
+        <button type="submit" class="btn btn-primary">提交请求</button>
+</div>
+    </form>
+        </div>
+</div>
+{% endblock %}

@@ -1,0 +1,4 @@
+127.230.179.167:密码错误
+222.163.201.58:(2013, 'Lost connection to MySQL server during query ([Errno 10054] )')
+120.25.166.212:(1130, u"Host '117.186.54.118' is not allowed to connect to this MySQL server")
+142.4.30.178:(1130, u"Host '117.186.54.22' is not allowed to connect to this MySQL server")

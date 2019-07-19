@@ -1,0 +1,3 @@
+http://www.11xbt.com/phpmyadmin/index.php|root|root
+http://www.lianyun315.com/phpmyadmin/index.php|root|root
+http://www.0512ti.com/phpmyadmin/index.php|root|123456

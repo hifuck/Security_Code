@@ -1,0 +1,588 @@
+服务器探针 :http://spacesystech.com/phpinfo.php
+服务器探针 :http://www.cstcmoc.org.cn/info.php
+服务器探针 :http://qy.sut56.com/test.php
+服务器探针 :http://www.spacesystech.com/phpinfo.php
+服务器探针 :http://www.sjzhrxt.com/php.php
+服务器探针 :http://bbs.sunwy.org/phpinfo.php
+WEB INFO 源码泄露 :http://www.qikebao.com/WEB-INF/web.xml
+WEB INFO 源码泄露 :http://www.wocloud.cn/WEB-INF/web.xml
+GIT 源码泄露 :http://www.markosweb.com/.git/config
+服务器探针 :http://www.sut56.com/test.php
+服务器探针 :http://www.hbsdbjt.com/i.php
+服务器探针 :http://www.hdtmedia.com/info.php
+服务器探针 :http://www.hbbidding.com.cn/1.php
+GIT 源码泄露 :http://ytwldx.soocedu.com/.git/config
+WEB INFO 源码泄露 :http://news.buct.edu.cn/WEB-INF/web.xml
+服务器探针 :http://www.china-insurance.com/1.php
+服务器探针 :http://www.jm-good.com/i.php
+服务器探针 :http://www.dlspeed-tech.com/i.php
+服务器探针 :http://www.100189.com/phpinfo.php
+服务器探针 :http://www.d9soft.com/phpinfo.php
+服务器探针 :http://www.d9soft.com/tz.php
+服务器探针 :http://php.hicn.com.cn/i.php
+服务器探针 :http://www.wanweiwang.cn/tz.asp
+服务器探针 :http://www.thede.cn/php.php
+GIT 源码泄露 :http://www.fpi-inc.com/.git/config
+服务器探针 :http://www.fpi-inc.com/info.php
+服务器探针 :http://www.bsjkj.com/phpinfo.php
+服务器探针 :http://news.west.cn/x.php
+服务器探针 :http://www.klmyjobs.com/info.php
+服务器探针 :http://www.jinlu666.com/tz.php
+服务器探针 :http://www.klmyjobs.com/1.php
+服务器探针 :http://www.jtntrade.com/test.php
+WEB INFO 源码泄露 :http://www.csres.com/WEB-INF/web.xml
+WEB INFO 源码泄露 :http://www.xinhe99.com/WEB-INF/web.xml
+GIT 源码泄露 :http://pgd.dfbtl007.com/.git/config
+服务器探针 :http://www.gxwtjtss.com/phpinfo.php
+服务器探针 :http://www.bkill.com/php.php
+服务器探针 :http://www.pinchain.com/info.php
+服务器探针 :http://www.htbill.com/test.php
+服务器探针 :http://fund.10jqka.com.cn/phpinfo.php
+服务器探针 :http://www.jsgcda.com/phpinfo.php
+服务器探针 :http://store.yooso.com.cn/phpinfo.php
+服务器探针 :http://bbs.ebnew.com/phpinfo.php
+服务器探针 :http://gf.cggc.cn/phpinfo.php
+服务器探针 :http://www.jq-bx.com/test.php
+WEB INFO 源码泄露 :http://mbzyyxxzh.zjchina.org/WEB-INF/web.xml
+WEB INFO 源码泄露 :http://jx.chinazy.org/WEB-INF/web.xml
+WEB INFO 源码泄露 :http://jc.chinazy.org/WEB-INF/web.xml
+WEB INFO 源码泄露 :http://rhsq.zjchina.org/WEB-INF/web.xml
+WEB INFO 源码泄露 :http://www.zjchina.org/WEB-INF/web.xml
+服务器探针 :http://www.cmstd.com.cn/phpinfo.php
+[phpinfo()]服务器探针 :http://www.cstcmoc.org.cn/info.php
+[phpinfo()]服务器探针 :http://spacesystech.com/phpinfo.php
+[phpinfo()]服务器探针 :http://www.sut56.com/test.php
+[phpinfo()]服务器探针 :http://www.spacesystech.com/phpinfo.php
+[获取失败]WEB INFO 源码泄露 :http://www.wocloud.cn/WEB-INF/web.xml
+[获取失败]WEB INFO 源码泄露 :http://www.qikebao.com/WEB-INF/web.xml
+[phpinfo()]服务器探针 :http://bbs.sunwy.org/phpinfo.php
+[phpinfo()]服务器探针 :http://www.sjzhrxt.com/php.php
+[获取失败]GIT 源码泄露 :http://www.markosweb.com/.git/config
+[phpinfo()]服务器探针 :http://www.hbsdbjt.com/i.php
+[phpinfo()]服务器探针 :http://qy.sut56.com/test.php
+[phpinfo()]服务器探针 :http://www.hdtmedia.com/info.php
+[phpinfo()]服务器探针 :http://www.hbbidding.com.cn/1.php
+[获取失败]GIT 源码泄露 :http://ytwldx.soocedu.com/.git/config
+[获取失败]WEB INFO 源码泄露 :http://news.buct.edu.cn/WEB-INF/web.xml
+[PHP 7.3.3 - phpinfo()]服务器探针 :http://www.china-insurance.com/1.php
+[phpinfo()]服务器探针 :http://www.jm-good.com/i.php
+[phpinfo()]服务器探针 :http://www.100189.com/phpinfo.php
+[phpinfo()]服务器探针 :http://www.dlspeed-tech.com/i.php
+[phpinfo()]服务器探针 :http://www.d9soft.com/phpinfo.php
+[Nowa-ASP探针]服务器探针 :http://www.wanweiwang.cn/tz.asp
+[雅黑PHP探针[简体版]v0.4.7]服务器探针 :http://www.d9soft.com/tz.php
+[phpinfo()]服务器探针 :http://php.hicn.com.cn/i.php
+[phpinfo()]服务器探针 :http://www.thede.cn/php.php
+[获取失败]GIT 源码泄露 :http://www.fpi-inc.com/.git/config
+[phpinfo()]服务器探针 :http://www.fpi-inc.com/info.php
+[phpinfo()]服务器探针 :http://www.bsjkj.com/phpinfo.php
+[phpinfo()]服务器探针 :http://news.west.cn/x.php
+[phpinfo()]服务器探针 :http://www.jtntrade.com/test.php
+[phpinfo()]服务器探针 :http://www.klmyjobs.com/info.php
+[phpinfo()]服务器探针 :http://www.klmyjobs.com/1.php
+[雅黑PHP探针[简体版]v0.4.7]服务器探针 :http://www.jinlu666.com/tz.php
+[获取失败]WEB INFO 源码泄露 :http://www.csres.com/WEB-INF/web.xml
+[获取失败]WEB INFO 源码泄露 :http://www.xinhe99.com/WEB-INF/web.xml
+[获取失败]GIT 源码泄露 :http://pgd.dfbtl007.com/.git/config
+[phpinfo()]服务器探针 :http://www.gxwtjtss.com/phpinfo.php
+[phpinfo()]服务器探针 :http://www.bkill.com/php.php
+[phpinfo()]服务器探针 :http://www.pinchain.com/info.php
+[测试]服务器探针 :http://www.htbill.com/test.php
+[phpinfo()]服务器探针 :http://fund.10jqka.com.cn/phpinfo.php
+[phpinfo()]服务器探针 :http://www.jsgcda.com/phpinfo.php
+[phpinfo()]服务器探针 :http://store.yooso.com.cn/phpinfo.php
+[phpinfo()]服务器探针 :http://bbs.ebnew.com/phpinfo.php
+[phpinfo()]服务器探针 :http://gf.cggc.cn/phpinfo.php
+[phpinfo()]服务器探针 :http://www.jq-bx.com/test.php
+[获取失败]WEB INFO 源码泄露 :http://mbzyyxxzh.zjchina.org/WEB-INF/web.xml
+[获取失败]WEB INFO 源码泄露 :http://jx.chinazy.org/WEB-INF/web.xml
+[获取失败]WEB INFO 源码泄露 :http://jc.chinazy.org/WEB-INF/web.xml
+[获取失败]WEB INFO 源码泄露 :http://rhsq.zjchina.org/WEB-INF/web.xml
+[获取失败]WEB INFO 源码泄露 :http://www.zjchina.org/WEB-INF/web.xml
+[phpinfo()]服务器探针 :http://www.cmstd.com.cn/phpinfo.php
+--------------------------------------------
+服务器探针 :http://spacesystech.com/phpinfo.php
+WEB INFO 源码泄露 :http://www.qikebao.com/WEB-INF/web.xml
+服务器探针 :http://www.cstcmoc.org.cn/info.php
+WEB INFO 源码泄露 :http://www.wocloud.cn/WEB-INF/web.xml
+服务器探针 :http://www.spacesystech.com/phpinfo.php
+服务器探针 :http://www.sut56.com/test.php
+服务器探针 :http://www.hbsdbjt.com/i.php
+服务器探针 :http://qy.sut56.com/test.php
+GIT 源码泄露 :http://www.markosweb.com/.git/config
+服务器探针 :http://bbs.sunwy.org/phpinfo.php
+服务器探针 :http://www.hdtmedia.com/info.php
+服务器探针 :http://www.sjzhrxt.com/php.php
+服务器探针 :http://www.hbbidding.com.cn/1.php
+TOMCAT 敏感文件地址 :http://www.bcda.org.cn:8081/manager/html
+TOMCAT 敏感文件地址 :http://www.china-zbycg.com:8081/manager/html
+TOMCAT 敏感文件地址 :http://www.china-zbycg.com:8080/manager/html
+TOMCAT 敏感文件地址 :http://mms.vsens.com:8080/manager/html
+TOMCAT 敏感文件地址 :http://sce.eaup.zhbit.com:8080/manager/html
+WEBLOGIC 敏感文件地址 :http://icsa.dbic.com.cn/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://icsa.dbic.com.cn:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://icsa.dbic.com.cn:7002/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://www.bitsde.com/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://www.bitsde.com:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://www.bitsde.com:7002/console/login/LoginForm.jsp
+GIT 源码泄露 :http://ytwldx.soocedu.com/.git/config
+WEB INFO 源码泄露 :http://news.buct.edu.cn/WEB-INF/web.xml
+服务器探针 :http://www.china-insurance.com/1.php
+TOMCAT 敏感文件地址 :http://www.aisino-fj.com:8080/manager/html
+服务器探针 :http://www.jm-good.com/i.php
+服务器探针 :http://www.wanweiwang.cn/tz.asp
+服务器探针 :http://www.dlspeed-tech.com/i.php
+服务器探针 :http://php.hicn.com.cn/i.php
+服务器探针 :http://www.100189.com/phpinfo.php
+服务器探针 :http://www.d9soft.com/phpinfo.php
+服务器探针 :http://www.d9soft.com/tz.php
+TOMCAT 敏感文件地址 :http://www.shaanxijs.gov.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.chinabidding.com:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.bkw.cn:8080/manager/html
+服务器探针 :http://www.thede.cn/php.php
+TOMCAT 敏感文件地址 :http://www.liqucn.com/RetainServer/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://www.liqucn.com/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://www.liqucn.com/servlets-examples/
+GIT 源码泄露 :http://www.fpi-inc.com/.git/config
+服务器探针 :http://www.fpi-inc.com/info.php
+TOMCAT 敏感文件地址 :http://www.ccs-c.com.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.ceaia.org.cn:8080/manager/html
+服务器探针 :http://www.bsjkj.com/phpinfo.php
+WEBLOGIC 敏感文件地址 :http://www.cemta.cn/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://www.cemta.cn:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://www.cemta.cn:7002/console/login/LoginForm.jsp
+服务器探针 :http://www.jtntrade.com/test.php
+服务器探针 :http://news.west.cn/x.php
+服务器探针 :http://www.klmyjobs.com/info.php
+服务器探针 :http://www.klmyjobs.com/1.php
+WEB INFO 源码泄露 :http://www.xinhe99.com/WEB-INF/web.xml
+GIT 源码泄露 :http://pgd.dfbtl007.com/.git/config
+WEB INFO 源码泄露 :http://wocloud.cn/WEB-INF/web.xml
+服务器探针 :http://www.gxwtjtss.com/phpinfo.php
+服务器探针 :http://www.bkill.com/php.php
+TOMCAT 敏感文件地址 :http://www.ycppc.org:8081/manager/html
+服务器探针 :http://www.pinchain.com/info.php
+服务器探针 :http://www.htbill.com/test.php
+服务器探针 :http://fund.10jqka.com.cn/phpinfo.php
+TOMCAT 敏感文件地址 :http://zjsbxxh.zjbaoxian.com:8081/manager/html
+TOMCAT 敏感文件地址 :http://www.zjbaoxian.com:8081/manager/html
+TOMCAT 敏感文件地址 :http://china.coovee.net/RetainServer/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://china.coovee.net/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://china.coovee.net/servlets-examples/
+TOMCAT 敏感文件地址 :http://zjia.zjbaoxian.com:8081/manager/html
+WEBLOGIC 敏感文件地址 :http://ecar.dbic.com.cn/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://ecar.dbic.com.cn:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://ecar.dbic.com.cn:7002/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://cisq.dbic.com.cn/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://cisq.dbic.com.cn:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://cisq.dbic.com.cn:7002/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://ess.10010.com/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://ess.10010.com:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://ess.10010.com:7002/console/login/LoginForm.jsp
+TOMCAT 敏感文件地址 :http://sbj.jiangmen.gov.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.cwag-xaghs.com:8080/manager/html
+服务器探针 :http://www.jsgcda.com/phpinfo.php
+TOMCAT 敏感文件地址 :http://zhaopin.westaport.com:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.newshuguangoa.com:8080/manager/html
+服务器探针 :http://store.yooso.com.cn/phpinfo.php
+TOMCAT 敏感文件地址 :http://www.jsgcda.com:8080/manager/html
+服务器探针 :http://bbs.ebnew.com/phpinfo.php
+服务器探针 :http://gf.cggc.cn/phpinfo.php
+服务器探针 :http://www.jq-bx.com/test.php
+TOMCAT 敏感文件地址 :http://www.lnszgjj.com:8080/manager/html
+WEB INFO 源码泄露 :http://mbzyyxxzh.zjchina.org/WEB-INF/web.xml
+WEBLOGIC 敏感文件地址 :http://czj.beijing.gov.cn/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://czj.beijing.gov.cn:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://czj.beijing.gov.cn:7002/console/login/LoginForm.jsp
+WEB INFO 源码泄露 :http://jx.chinazy.org/WEB-INF/web.xml
+TOMCAT 敏感文件地址 :http://gf.cggc.cn:8080/manager/html
+WEB INFO 源码泄露 :http://jc.chinazy.org/WEB-INF/web.xml
+WEB INFO 源码泄露 :http://rhsq.zjchina.org/WEB-INF/web.xml
+WEB INFO 源码泄露 :http://www.zjchina.org/WEB-INF/web.xml
+TOMCAT 敏感文件地址 :http://www.kuaiji.com.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://cvae.toug.com.cn:8080/manager/html
+服务器探针 :http://www.cmstd.com.cn/phpinfo.php
+TOMCAT 敏感文件地址 :http://www.56885.net/RetainServer/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://www.56885.net/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://www.56885.net/servlets-examples/
+服务器探针 :http://www.jinlu666.com/tz.php
+WEBLOGIC 敏感文件地址 :http://www.cahwec.wang:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://www.cahwec.wang:7002/console/login/LoginForm.jsp
+服务器探针 :http://www.xinriyuan.com/test.php
+TOMCAT 敏感文件地址 :http://www.cstc.org.cn/servlets-examples/
+服务器探针 :http://www.zgjscmw.com/test.php
+服务器探针 :http://www.ad163.com/phpinfo.php
+TOMCAT 敏感文件地址 :http://www.ss.uestc.edu.cn:8080/manager/html
+服务器探针 :http://www.whfp.org/test.php
+服务器探针 :http://www.innovateda.org/tz.php
+服务器探针 :http://www.qdbxxh.com/test.php
+TOMCAT 敏感文件地址 :http://www.chinatcc.gov.cn:8080/manager/html
+服务器探针 :http://www.jcgcw.com/info.php
+服务器探针 :http://www.okhqb.com/info.php
+TOMCAT 敏感文件地址 :http://os-android.liqucn.com/RetainServer/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://os-android.liqucn.com/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://os-android.liqucn.com/servlets-examples/
+服务器探针 :http://www.lenw.cn/x.php
+服务器探针 :http://www.lenw.cn/tz.php
+TOMCAT 敏感文件地址 :http://www.asiafinance.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.chnrailway.com:8080/manager/html
+服务器探针 :http://www.ynbit.com/info.php
+服务器探针 :http://www.yunzhan365.com/info.php
+服务器探针 :http://www.yunzhan365.com/1.php
+TOMCAT 敏感文件地址 :http://web.jhws.top:8081/manager/html
+服务器探针 :http://www.globeie.com/phpinfo.php
+TOMCAT 敏感文件地址 :http://www.sunnyoptical.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.uxsino.com:8080/manager/html
+TOMCAT 敏感文件地址 :http://ifm.aisinoha.com:8081/manager/html
+GIT 源码泄露 :http://www.xtuan.com/.git/config
+TOMCAT 敏感文件地址 :http://www.4008713369.com:8081/manager/html
+TOMCAT 敏感文件地址 :http://www.aisinoha.com:8081/manager/html
+TOMCAT 敏感文件地址 :http://www.hx95113.com:8081/manager/html
+服务器探针 :http://www.bmmja.com/phpinfo.php
+TOMCAT 敏感文件地址 :http://www.cqtransit.com:8081/manager/html
+TOMCAT 敏感文件地址 :http://www.cnbm.com.cn:8080/manager/html
+服务器探针 :http://jy.cidp.edu.cn/phpinfo.php
+服务器探针 :http://www.yan-wei.net/aspcheck.asp
+TOMCAT 敏感文件地址 :http://jy.cidp.edu.cn:8080/manager/html
+服务器探针 :http://www.tfsv.com/test.php
+服务器探针 :http://www.chinasoft.org.cn/test.php
+SVN 源码泄露 :http://gcbxdb.com/.svn/entries
+服务器探针 :http://www.jzaq.com/i.php
+服务器探针 :http://www.ceciaa.org.cn/aspcheck.asp
+TOMCAT 敏感文件地址 :http://www.cdsia.org.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.tfsv.com:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.chinasoft.org.cn:8080/manager/html
+服务器探针 :http://www.nev168.com/phpinfo.php
+服务器探针 :http://www.akeyun.com/info.php
+GIT 源码泄露 :http://ask.ufidawhy.com/.git/config
+WEB INFO 源码泄露 :http://www.yonyou.com/WEB-INF/web.xml
+GIT 源码泄露 :http://www.chinanev.net/.git/config
+WEB INFO 源码泄露 :http://www.waveguider.com.cn/WEB-INF/web.xml
+服务器探针 :http://www.eq-icd.cn/p.php
+服务器探针 :http://www.sign.ac.cn/info.php
+服务器探针 :http://www.hlbeba.com/phpinfo.php
+服务器探针 :http://www.hlbeba.com/tz.php
+TOMCAT 敏感文件地址 :http://cn.coovee.net/RetainServer/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://cn.coovee.net/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://cn.coovee.net/servlets-examples/
+服务器探针 :http://www.gaoxinbutie.com/1.php
+TOMCAT 敏感文件地址 :http://www.sign.ac.cn:8080/manager/html
+服务器探针 :http://www.gdsbd.cn/aspcheck.asp
+服务器探针 :http://www.daglrj.com/phpinfo.php
+服务器探针 :http://www.scchina.com.cn/p.php
+服务器探针 :http://www.ybjk.com/pi.php
+服务器探针 :http://www.cragc.com.cn/i.php
+GIT 源码泄露 :http://m.tfzq.com/.git/config
+TOMCAT 敏感文件地址 :http://www.chinaglass-expo.com:8080/manager/html
+服务器探针 :http://www.infobird.com/1.php
+服务器探针 :http://www.chinacoat.net/test.php
+TOMCAT 敏感文件地址 :http://www.zbycg.com:8081/manager/html
+TOMCAT 敏感文件地址 :http://www.cclib.com.cn:8080/manager/html
+服务器探针 :http://www.ledusz.com/test.php
+TOMCAT 敏感文件地址 :http://tzc.zhbit.com:8080/manager/html
+服务器探针 :http://www.chinae68.com/1.php
+服务器探针 :http://www.yungzn.net/tz.php
+TOMCAT 敏感文件地址 :http://kejichu.zhbit.com:8080/manager/html
+TOMCAT 敏感文件地址 :http://guojihz.zhbit.com:8080/manager/html
+服务器探针 :http://www.xuexi-online.com/phpinfo.php
+服务器探针 :http://www.iwordnet.com/phpinfo.php
+服务器探针 :http://www.iwordnet.com/test.php
+服务器探针 :http://www.downxia.com/phpinfo.php
+WEB INFO 源码泄露 :http://www.haistand.com.cn/WEB-INF/web.xml
+GIT 源码泄露 :http://www.chinagwy.org/.git/config
+TOMCAT 敏感文件地址 :http://www.zuihaodaxue.com:8081/manager/html
+TOMCAT 敏感文件地址 :http://www.zuihaodaxue.com:8080/manager/html
+服务器探针 :http://www.ytct.com/i.php
+TOMCAT 敏感文件地址 :http://www.gaoxinedu.com:8080/manager/html
+服务器探针 :http://www.seasatcom.com/info.php
+服务器探针 :http://www.chanct.com/phpinfo.php
+TOMCAT 敏感文件地址 :http://www.ytct.com:8080/manager/html
+服务器探针 :http://www.cacenter.com.cn/test.php
+服务器探针 :http://www.4009906688.com/phpinfo.php
+服务器探针 :http://www.xiucai.com/test.php
+WEBLOGIC 敏感文件地址 :http://58.213.100.35:9001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://58.213.100.35:9001:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://58.213.100.35:9001:7002/console/login/LoginForm.jsp
+服务器探针 :http://www.cr8sz.com/phpinfo.php
+WEBLOGIC 敏感文件地址 :http://58.213.100.40:9001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://58.213.100.40:9001:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://58.213.100.40:9001:7002/console/login/LoginForm.jsp
+服务器探针 :http://www.piaobeijing.com/info.php
+TOMCAT 敏感文件地址 :http://www.t3.com.cn:8081/manager/html
+服务器探针 :http://www.yanchupiao.com/i.php
+服务器探针 :http://www.3721piao.com/i.php
+WEB INFO 源码泄露 :http://www.woclouddata.cn/WEB-INF/web.xml
+服务器探针 :http://nfyq.cn/phpinfo.php
+服务器探针 :http://www.safety4sea.com/info.php
+服务器探针 :http://www.nfyq.cn/phpinfo.php
+TOMCAT 敏感文件地址 :http://m.haiwainet.cn:8080/manager/html
+服务器探针 :http://www.hnadsl.com/info.php
+服务器探针 :http://www.hnadsl.com/p.php
+服务器探针 :http://www.pack.net.cn/phpinfo.php
+服务器探针 :http://www.shippingchina.com/phpinfo.php
+服务器探针 :http://www.olpcs.com.tw/phpinfo.php
+服务器探针 :http://www.tmo.com.tw/phpinfo.php
+服务器探针 :http://www.aoturen.com/info.php
+服务器探针 :http://www.daijun.com/php.php
+TOMCAT 敏感文件地址 :http://www.antidoping.org.tw:8080/manager/html
+服务器探针 :http://www.ris.com.cn/php.php
+TOMCAT 敏感文件地址 :http://www.zmdnews.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://b2b.generali-china.cn/servlets-examples/
+WEBLOGIC 敏感文件地址 :http://esales.10010.com/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://esales.10010.com:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://esales.10010.com:7002/console/login/LoginForm.jsp
+TOMCAT 敏感文件地址 :http://zxgl.mofcom.gov.cn:8080/manager/html
+服务器探针 :http://www.smator.cn/p1.php
+服务器探针 :http://www.efnchina.com/phpinfo.php
+服务器探针 :http://efnchina.com/phpinfo.php
+服务器探针 :http://economics.efnchina.com/phpinfo.php
+服务器探针 :http://down.efnchina.com/phpinfo.php
+TOMCAT 敏感文件地址 :http://yunbit.cn.coovee.net/RetainServer/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://yunbit.cn.coovee.net/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://yunbit.cn.coovee.net/servlets-examples/
+服务器探针 :http://www.beiou.org/i.php
+WEBLOGIC 敏感文件地址 :http://kfxt.gree.com:7505/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://kfxt.gree.com:7505:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://kfxt.gree.com:7505:7002/console/login/LoginForm.jsp
+服务器探针 :http://www.s9.com.cn/i.php
+WEBLOGIC 敏感文件地址 :http://pjgl.gree.com:7101/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://pjgl.gree.com:7101:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://pjgl.gree.com:7101:7002/console/login/LoginForm.jsp
+服务器探针 :http://www.runbayun.com/phpinfo.php
+GIT 源码泄露 :http://www.8dol.com/.git/config
+服务器探针 :http://www.zzccjz.com/phpinfo.php
+WEB INFO 源码泄露 :http://yan.bcpcn.com/WEB-INF/web.xml
+服务器探针 :http://v.lmtw.com/info.php
+WEB INFO 源码泄露 :http://www.nagasoft.cn/WEB-INF/web.xml
+服务器探针 :http://wochat.gd10010.cn/phpinfo.php
+GIT 源码泄露 :http://www.baiyintouzi.com/.git/config
+服务器探针 :http://www.citsbj.com/php.php
+服务器探针 :http://bjyiriyou.com/test.php
+WEB INFO 源码泄露 :http://www.xwgd.gov.cn/WEB-INF/web.xml
+服务器探针 :http://whttc.com/1.php
+服务器探针 :http://www.whttc.com/1.php
+服务器探针 :http://www.2ii.info/test.php
+服务器探针 :http://www.macrolink.com.cn/1.php
+服务器探针 :http://www.pgm.com.cn/phpinfo.php
+GIT 源码泄露 :http://www.51wyfl.com/.git/config
+服务器探针 :http://www.pgm.com.cn/1.php
+服务器探针 :http://www.jdlssoft.com.cn/test.php
+服务器探针 :http://www.sh-huhe.com/aspcheck.asp
+TOMCAT 敏感文件地址 :http://rmjy.toug.com.cn:8080/manager/html
+GIT 源码泄露 :http://www.iahome.com.cn/.git/config
+WEB INFO 源码泄露 :http://www.iahome.com.cn/WEB-INF/web.xml
+GIT 源码泄露 :http://iahome.com.cn/.git/config
+WEB INFO 源码泄露 :http://iahome.com.cn/WEB-INF/web.xml
+TOMCAT 敏感文件地址 :http://www.iahome.com.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://iahome.com.cn:8080/manager/html
+服务器探针 :http://www.malait.com/p.php
+服务器探针 :http://wchgm335.esoogle.com/p.php
+TOMCAT 敏感文件地址 :http://www.jyb.cn/RetainServer/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://www.jyb.cn/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://www.jyb.cn/servlets-examples/
+TOMCAT 敏感文件地址 :http://zggdjy.jyb.cn/RetainServer/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://zggdjy.jyb.cn/Manager/login.jsp
+TOMCAT 敏感文件地址 :http://zggdjy.jyb.cn/servlets-examples/
+服务器探针 :http://www.jinyun.eitao.cn/info.php
+TOMCAT 敏感文件地址 :http://ep.cannews.com.cn:8080/manager/html
+服务器探针 :http://www.he-nan.com/info.php
+WEB INFO 源码泄露 :http://chrdi.avic.com/WEB-INF/web.xml
+TOMCAT 敏感文件地址 :http://www.cape.cn:8080/manager/html
+TOMCAT 敏感文件地址 :http://www.mbaike.net:8080/manager/html
+服务器探针 :http://www.rshao.com/phpinfo.php
+服务器探针 :http://www.rshao.com/test.php
+服务器探针 :http://niutuku.com/p.php
+服务器探针 :http://www.hwzn.com/x.php
+TOMCAT 敏感文件地址 :http://yczx.sipac.gov.cn:8080/manager/html
+服务器探针 :http://www.buildbid.cn/1.php
+TOMCAT 敏感文件地址 :http://www.gxjmxx.com:8080/manager/html
+GIT 源码泄露 :http://www.jsbgbxy.com.cn/.git/config
+TOMCAT 敏感文件地址 :http://js.shaanxi.gov.cn:8080/manager/html
+服务器探针 :http://www.ittn.org.cn/aspcheck.asp
+服务器探针 :http://www.qihuor.com/phpinfo.php
+服务器探针 :http://www.qihuor.com/p.php
+服务器探针 :http://www.gtjatj.com/i.php
+服务器探针 :http://cn.b2bkk.com/info.php
+WEB INFO 源码泄露 :http://www.cbbr.com.cn/WEB-INF/web.xml
+服务器探针 :http://www.jianzhuzhaobiao.com/1.php
+服务器探针 :http://bbs.chinaunix.net/test.php
+服务器探针 :http://www.qikan58.com/phpinfo.php
+服务器探针 :http://www.quanzhi.com/info.php
+TOMCAT 敏感文件地址 :http://cnpc-ngo.toug.com.cn:8080/manager/html
+WEBLOGIC 敏感文件地址 :http://120.52.40.24:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://120.52.40.24:7001:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://120.52.40.24:7001:7002/console/login/LoginForm.jsp
+TOMCAT 敏感文件地址 :http://www.airwh.com:8081/manager/html
+服务器探针 :http://mochasoft.com.cn/test.php
+WEBLOGIC 敏感文件地址 :http://210.75.201.203/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://210.75.201.203:7001/console/login/LoginForm.jsp
+WEBLOGIC 敏感文件地址 :http://210.75.201.203:7002/console/login/LoginForm.jsp
+服务器探针 :http://www.casm.cn/test.php
+服务器探针 :http://casm.ac.cn/test.php
+服务器探针 :http://www.zlei.net/phpinfo.php
+WEB INFO 源码泄露 :http://wap.asianmetal.cn/WEB-INF/web.xml
+服务器探针 :http://old.iachina.cn/phpinfo.php
+服务器探针 :http://www.siandian.com/php.php
+GIT 源码泄露 :http://www.fstime.com.cn/.git/config
+GIT 源码泄露 :http://www.huibaolp.com/.git/config
+服务器探针 :http://www.geosociety.org.cn/info.php
+服务器探针 :http://www.yangguanggouwu.com/phpinfo.php
+服务器探针 :http://emuseum.org.cn/test.php
+服务器探针 :http://www.52qj.com/1.php
+服务器探针 :http://www.gtjia.com/php.php
+服务器探针 :http://www.hysteeltube.com/tz.php
+服务器探针 :http://www.hysteeltube.com/p.php
+TOMCAT 敏感文件地址 :http://scm.cnrmall.com/servlets-examples/
+-----------------------------------------------
+GIT 源码泄露 :http://www.tukeji.com//.git/config
+GIT 源码泄露 :http://www.leyou.com.cn//.git/config
+服务器探针 :http://www.shuangliang.com.cn//php.php
+GIT 源码泄露 :http://www.chrysler-online.com.cn//.git/config
+服务器探针 :http://www.qztv.cn//1.php
+服务器探针 :http://www.dh-bga.com.cn//phpinfo.php
+服务器探针 :http://www.tongyi.com//phpinfo.php
+服务器探针 :http://www.xldz.com//php.php
+服务器探针 :http://www.hi-spider.com//1.php
+服务器探针 :http://www.daysunlogistics.com.cn//i.php
+服务器探针 :http://www.114cf.cn//1.php
+服务器探针 :http://www.esdjy.com.cn//i.php
+GIT 源码泄露 :http://www.paidai.com//.git/config
+服务器探针 :http://www.skyshuma.cn//phpinfo.php
+GIT 源码泄露 :http://www.nctudi.com//.git/config
+服务器探针 :http://www.zene.com.cn//info.php
+服务器探针 :http://www.zene.com.cn//test.php
+服务器探针 :http://www.9555168.com//php.php
+服务器探针 :http://www.zene.com.cn//tz.php
+GIT 源码泄露 :http://www.mymumu.com//.git/config
+服务器探针 :http://www.mymumu.com//info.php
+服务器探针 :http://www.sino-manager.com//tz.php
+GIT 源码泄露 :http://www.fpi-inc.com//.git/config
+服务器探针 :http://www.fpi-inc.com//info.php
+服务器探针 :http://www.szcw.cn//info.php
+GIT 源码泄露 :http://pianke.me//.git/config
+服务器探针 :http://zs.dyxy.net//phpinfo.php
+服务器探针 :http://www.zhyww.cn//phpinfo.php
+服务器探针 :http://www.jscin.gov.cn//phpinfo.php
+服务器探针 :http://www.jscin.gov.cn//info.php
+GIT 源码泄露 :http://www.ytkd168.com//.git/config
+服务器探针 :http://job.hzbj.com//test.php
+服务器探针 :http://www.ahedi.com.cn//phpinfo.php
+服务器探针 :http://www.gdwh.com.cn//p.php
+服务器探针 :http://www.ck-telecom.com//phpinfo.php
+服务器探针 :http://nlx.gov.cn//phpinfo.php
+服务器探针 :http://www.bsdnhfx.com//phpinfo.php
+服务器探针 :http://www.zhongyuanauto.com//info.php
+服务器探针 :http://www.zhongyuanauto.com//p.php
+GIT 源码泄露 :http://beian.021.net//.git/config
+服务器探针 :http://beian.021.net//p.php
+服务器探针 :http://www.50735.com//env.php
+GIT 源码泄露 :http://www.51znt.com//.git/config
+服务器探针 :http://jiukuaiyou.com//php.php
+服务器探针 :http://cli.im//info.php
+GIT 源码泄露 :http://xdsec.org//.git/config
+服务器探针 :http://www.yoekey.com//test.php
+服务器探针 :http://www.aichule.com//phpinfo.php
+服务器探针 :http://www.1ting.com//info.php
+服务器探针 :http://www.adsame.com//info.php
+服务器探针 :http://www.jufacai.com//phpinfo.php
+服务器探针 :http://www.jufacai.com//p.php
+服务器探针 :http://www.tecenet.com//phpinfo.php
+GIT 源码泄露 :http://www.ikuai8.com//.git/config
+服务器探针 :http://www.uggd.com//p.php
+服务器探针 :http://www.micang.com//test.php
+服务器探针 :http://www.cqcmkj.com.cn//x.php
+服务器探针 :http://www.tjh8.com//1.php
+TOMCAT 敏感文件地址 :http://www.fsfund.com//servlets-examples/
+GIT 源码泄露 :http://www.chushi007.com//.git/config
+服务器探针 :http://www.fenjinshe.com//info.php
+服务器探针 :http://www.happigo.com//phpinfo.php
+服务器探针 :http://www.skyshuma.cn//phpinfo.php
+GIT 源码泄露 :http://www.paidai.com//.git/config
+服务器探针 :http://www.xldz.com//php.php
+服务器探针 :http://www.shuangliang.com.cn//php.php
+GIT 源码泄露 :http://www.leyou.com.cn//.git/config
+GIT 源码泄露 :http://www.chrysler-online.com.cn//.git/config
+服务器探针 :http://www.daysunlogistics.com.cn//i.php
+服务器探针 :http://www.qztv.cn//1.php
+服务器探针 :http://www.tongyi.com//phpinfo.php
+服务器探针 :http://www.9555168.com//php.php
+GIT 源码泄露 :http://www.tukeji.com//.git/config
+服务器探针 :http://www.dh-bga.com.cn//phpinfo.php
+服务器探针 :http://www.hi-spider.com//1.php
+服务器探针 :http://www.114cf.cn//1.php
+服务器探针 :http://www.esdjy.com.cn//i.php
+GIT 源码泄露 :http://www.nctudi.com//.git/config
+服务器探针 :http://www.zene.com.cn//info.php
+服务器探针 :http://www.zene.com.cn//test.php
+服务器探针 :http://www.zene.com.cn//tz.php
+GIT 源码泄露 :http://www.mymumu.com//.git/config
+服务器探针 :http://www.mymumu.com//info.php
+服务器探针 :http://www.sino-manager.com//tz.php
+服务器探针 :http://www.jscin.gov.cn//phpinfo.php
+服务器探针 :http://www.jscin.gov.cn//info.php
+GIT 源码泄露 :http://www.fpi-inc.com//.git/config
+服务器探针 :http://www.fpi-inc.com//info.php
+服务器探针 :http://www.szcw.cn//info.php
+服务器探针 :http://www.ck-telecom.com//phpinfo.php
+GIT 源码泄露 :http://pianke.me//.git/config
+服务器探针 :http://www.1ting.com//info.php
+服务器探针 :http://zs.dyxy.net//phpinfo.php
+服务器探针 :http://www.zhyww.cn//phpinfo.php
+服务器探针 :http://www.gdwh.com.cn//p.php
+GIT 源码泄露 :http://www.ytkd168.com//.git/config
+服务器探针 :http://www.ahedi.com.cn//phpinfo.php
+服务器探针 :http://job.hzbj.com//test.php
+服务器探针 :http://www.bsdnhfx.com//phpinfo.php
+服务器探针 :http://nlx.gov.cn//phpinfo.php
+服务器探针 :http://www.zhongyuanauto.com//info.php
+服务器探针 :http://www.zhongyuanauto.com//p.php
+服务器探针 :http://www.adsame.com//info.php
+GIT 源码泄露 :http://beian.021.net//.git/config
+服务器探针 :http://beian.021.net//p.php
+服务器探针 :http://www.50735.com//env.php
+GIT 源码泄露 :http://www.51znt.com//.git/config
+服务器探针 :http://jiukuaiyou.com//php.php
+服务器探针 :http://cli.im//info.php
+GIT 源码泄露 :http://xdsec.org//.git/config
+服务器探针 :http://www.yoekey.com//test.php
+服务器探针 :http://www.aichule.com//phpinfo.php
+服务器探针 :http://www.pjwh.cn//phpinfo.php
+服务器探针 :http://www.jufacai.com//phpinfo.php
+服务器探针 :http://www.tecenet.com//phpinfo.php
+服务器探针 :http://www.jufacai.com//p.php
+GIT 源码泄露 :http://www.ikuai8.com//.git/config
+服务器探针 :http://www.uggd.com//p.php
+服务器探针 :http://www.micang.com//test.php
+服务器探针 :http://www.cqcmkj.com.cn//x.php
+TOMCAT 敏感文件地址 :http://www.fsfund.com//servlets-examples/
+服务器探针 :http://www.tjh8.com//1.php
+GIT 源码泄露 :http://www.chushi007.com//.git/config
+服务器探针 :http://www.fenjinshe.com//info.php
+服务器探针 :http://www.happigo.com//phpinfo.php
+GIT 源码泄露 :http://www.rongmofang.com//.git/config
+服务器探针 :http://www.dxsxs.com//test.php
+WEB INFO 源码泄露 :http://www.daoyoudao.com//WEB-INF/web.xml
+服务器探针 :http://www.vesystem.com//phpinfo.php
+服务器探针 :http://www.voole.com//test.php
+WEB INFO 源码泄露 :http://www.xinhe99.com//WEB-INF/web.xml
+服务器探针 :http://www.51trly.com//info.php
+服务器探针 :http://www.hnsqjgdj.gov.cn//1.php
+GIT 源码泄露 :http://www.baohezi.cn//.git/config
+服务器探针 :http://www.3wyk.com//aspcheck.asp
+服务器探针 :http://www.bkill.com//php.php
+服务器探针 :http://dameiweb.com//test.php
+服务器探针 :http://www.ydyy120.com//info.php
+服务器探针 :http://www.yzrc.net//phpinfo.php
+服务器探针 :http://www.dingli.com//1.php
+服务器探针 :http://www.easy-tour.cn//tz.php
+GIT 源码泄露 :http://www.webpowerchina.com//.git/config
+服务器探针 :http://www.ck-telecom.com//phpinfo.php
+服务器探针 :http://www.51g3.net//p.php
+服务器探针 :http://www.cdyushun.com//test.php
+服务器探针 :http://www.cdyushun.com//x.php
+服务器探针 :http://www.laiyifen.com//info.php
+服务器探针 :http://www.doyo.cn//phpinfo.php
+GIT 源码泄露 :http://www.qiakr.com//.git/config
+服务器探针 :http://www.fotile.com//info.php
+服务器探针 :http://www.luculent.net//info.php
+服务器探针 :http://www.abler.cn//1.php

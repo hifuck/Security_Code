@@ -1,0 +1,8 @@
+{% extends 'layout.html' %}
+{% block content %}
+    {{ super() }}
+
+{% for x in data %}
+    {{ x }}<br>
+{% endfor %}
+{% endblock %}

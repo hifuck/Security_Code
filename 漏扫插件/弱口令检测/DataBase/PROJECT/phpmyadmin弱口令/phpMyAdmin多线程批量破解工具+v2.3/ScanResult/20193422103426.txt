@@ -1,0 +1,13 @@
+http://www.zghmwh.com/phpmyadmin/index.php|root|root
+http://www.aivtp.com/phpmyadmin/index.php|root|root
+http://www.315net.net/phpmyadmin/index.php|root|root
+http://www.sextime360.com/phpmyadmin/index.php|root|123456
+http://www.coventrynv.com/phpmyadmin/index.php|root|mysql
+http://www.anhuixing.com/phpmyadmin/index.php|admin|0
+http://www.infinitinews.com.cn/phpmyadmin/index.php|admin|0
+http://www.tuanyiwang.cn/phpmyadmin/index.php|root|root
+http://www.qiaohuisland.cn/phpmyadmin/index.php|admin|0
+http://www.qiaohuisland.com/phpmyadmin/index.php|admin|0
+http://www.flymelody.com/phpmyadmin/index.php|test|0
+http://www.my172.com/phpmyadmin/index.php|test|12345678
+http://www.documentsolution.com/phpmyadmin/index.php|root|P@ssw0rd

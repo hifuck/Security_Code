@@ -1,0 +1,60 @@
+{% extends 'layout.html' %}
+{% block content %}
+    {{ super() }}
+
+
+<div class="navbar navbar-default">
+<div class="navbar-header">
+    <a class="navbar-brand" href="{{url_for('web.index')}}">LanGZi Eyes</a>
+</div>
+    <ul class="nav navbar-nav">
+        <li><a href="{{ url_for('web.index') }}">HOME</a></li>
+        <li><a href="{{ url_for('web.cms_map') }}">CMS MAP</a></li>
+        <li><a href="{{ url_for('web.ip_map') }}">IP MAP</a></li>
+    </ul>
+</div>
+
+
+
+    <div class="col-md-2">
+
+
+        <div class="panel panel-default">
+   <div class="panel-heading">
+      已识别网址CMS数量 : {{ co }} 个
+   </div>
+
+        {% for x,y in data.items() %}
+                <div class="panel-body">
+     {{ x }} : {{ y|length }} 条
+    </div>
+
+{% endfor %}
+</div>
+
+
+
+   </div>
+
+
+
+    <div class="col-md-10">
+
+
+
+    {% for x,y in data.items() %}
+
+<font size="{{ y|length }}">
+
+ <span class="{{ ["label label-default","label label-success","label label-info","label label-warning","label label-danger"]|random }}" >
+     <a href="{{ url_for("web.cms_list",name = x)}}">
+         {{ x }}:{{ y|length }}</a>
+ </span>
+
+</font>
+
+      {% endfor %}
+
+
+</div>
+{% endblock %}

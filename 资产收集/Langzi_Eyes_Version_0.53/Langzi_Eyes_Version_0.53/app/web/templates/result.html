@@ -1,0 +1,63 @@
+{% extends 'layout.html' %}
+{% block content %}
+    {{ super() }}
+
+
+
+<div class="navbar navbar-default">
+    <ul class="nav navbar-nav">
+                <li><a href="{{ url_for('web.index') }}">HOME</a></li>
+        <li><a href="{{url_for('web.urls',dtime=dtime)}}">提取网址</a></li>
+        <li><a href="{{url_for('web.ips',dtime=dtime)}}">提取IP</a></li>
+        <li><a href="{{url_for('web.durls',dtime=dtime)}}">下载网址</a></li>
+        <li><a href="{{url_for('web.dips',dtime=dtime)}}">下载IP</a></li>
+    </ul>
+</div>
+
+
+<div class="panel panel-success">
+        <div class="panel panel-heading">
+            {% if all_infos %}
+        一共为你搜索到 {{all_infos|length()}} 条数据
+            {% endif %}
+
+            {% if all_info %}
+        为你搜索到该 URL 真实IP地址，在浏览器访问核对
+            {% endif %}
+
+    </div>
+
+</div>
+<div class="col-md-1">
+
+</div>
+<div class="col-md-11">
+{% if all_infos %}
+{% for k,v in all_infos.items() %}
+
+<h3>{{ k }}</h3>
+    {% for kk,vv in v.items() %}
+        <strong>{{ kk }}</strong>:{{ vv }}
+        <br>
+        {% endfor %}
+        </p>
+
+{% endfor %}
+{% endif %}
+
+
+{% if all_info %}
+{% for k,v in all_info.items() %}
+
+<strong>{{ k }} : </strong>{{ v }}
+<br>
+{% endfor %}
+{% endif %}
+
+</div>
+
+{% endblock %}
+
+
+
+

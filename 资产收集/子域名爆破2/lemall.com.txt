@@ -1,0 +1,8 @@
+http://wx.lemall.com
+http://my.lemall.com
+http://www.lemall.com
+http://sso.lemall.com
+https://order.lemall.com
+http://wm.lemall.com
+http://win.lemall.com:80
+http://m.lemall.com
